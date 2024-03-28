@@ -104,7 +104,7 @@ def get_daily_papers(topic, query, max_results):
             content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|\n".format(
                     update_time, paper_title, paper_first_author, paper_key, paper_url)
             # web version
-            content_to_web[paper_key] = "### [{}]({}) <br /> **Date** {} **Authors** {} et.al. <br /> **Abstract** <br /> {} <br /> <br />".format(
+            content_to_web[paper_key] = "[{}]({}) <br /> **Date** {} **Authors** {} et.al. <br /> **Abstract** <br /> {} <br /> <br />".format(
                     paper_title, paper_url, update_time, paper_first_author, paper_abstract)
 
         except Exception as e:
