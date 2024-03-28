@@ -1,12 +1,4 @@
-## Updated on 2024.03.28
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#llm-security>LLM Security</a></li>
-    <li><a href=#llm-application>LLM Application</a></li>
-  </ol>
-</details>
-
+Updated on 2024.03.28
 ## LLM Security
 
 |Publish Date|Title|Authors|PDF|
@@ -22,8 +14,6 @@
 |**2024-02-09**|**Studious Bob Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
 |**2024-02-16**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
-
 ## LLM Application
 
 |Publish Date|Title|Authors|PDF|
@@ -38,6 +28,4 @@
 |**2024-03-16**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|
 |**2024-02-29**|**PRSA: Prompt Reverse Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|
-
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
 

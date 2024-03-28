@@ -1,12 +1,4 @@
----
-layout: default
----
-
----
-layout: default
----
-
-## Updated on 2024.03.28
+Updated on 2024.03.28
 ## LLM Security
 
 | Publish Date | Title | Authors | PDF |

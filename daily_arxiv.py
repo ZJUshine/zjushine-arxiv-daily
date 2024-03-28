@@ -175,12 +175,7 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
     
-def json_to_md(filename,md_filename,
-               task = '',
-               to_web = False, 
-               use_title = True, 
-               use_tc = True,
-               use_b2t = True):
+def json_to_md(filename, md_filename, task, to_web = False, ):
     """
     @param filename: str
     @param md_filename: str
@@ -217,31 +212,7 @@ def json_to_md(filename,md_filename,
 
     # write data into README.md
     with open(md_filename,"a+") as f:
-
-        if (use_title == True) and (to_web == True):
-            f.write("---\n" + "layout: default\n" + "---\n\n")
-            f.write("---\n" + "layout: default\n" + "---\n\n") 
-                
-        if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>zjushine-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Updated on " + DateNow + "\n")
-        else:
-            f.write("> Updated on " + DateNow + "\n")
-
-        #Add: table of contents
-        if use_tc == True:
-            f.write("<details>\n")
-            f.write("  <summary>Table of Contents</summary>\n")
-            f.write("  <ol>\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
-            f.write("</details>\n\n")
+        f.write("Updated on " + DateNow + "\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
@@ -250,12 +221,11 @@ def json_to_md(filename,md_filename,
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
-                if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|\n" + "|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|\n")
+            if to_web == False:
+                f.write("|Publish Date|Title|Authors|PDF|\n" + "|---|---|---|---|\n")
+            else:
+                f.write("| Publish Date | Title | Authors | PDF |\n")
+                f.write("|:---------|:-----------------------|:---------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
@@ -265,12 +235,6 @@ def json_to_md(filename,md_filename,
                     f.write(pretty_math(v)) # make latex pretty
 
             f.write(f"\n")
-            
-            #Add: back to top
-            if use_b2t:
-                top_info = f"#Updated on {DateNow}"
-                top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
             
     logging.info(f"{task} finished")        
 
@@ -301,26 +265,21 @@ def demo(**config):
     if publish_readme:
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
-        # update paper links
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
-            # update json data
             update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme')
+        json_to_md(json_file,md_file, task ='Update Readme', to_web = False)
 
     # 2. update index.md file (to gitpage)
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
-        # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task ='Update GitPage', to_web = True)
 
 
 
