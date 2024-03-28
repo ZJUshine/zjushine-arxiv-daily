@@ -2744,12 +2744,12 @@
 
 <p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/zjushine-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/zjushine-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/zjushine-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/zjushine-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/zjushine-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/zjushine-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/zjushine-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/zjushine-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/ZJU shi ne/zjushine-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/issues
 
