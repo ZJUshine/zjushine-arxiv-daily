@@ -310,7 +310,7 @@ def demo(**config):
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme')
 
-    # 2. update docs/index.md file (to gitpage)
+    # 2. update index.md file (to gitpage)
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']

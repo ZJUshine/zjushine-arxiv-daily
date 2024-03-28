@@ -11,9 +11,6 @@ remote_theme: jekyll/minima@v2.5.1
 
 # minima:
 skin: dark
-social_links:
-  twitter: None
-  github: ZJUshine
 
 plugins:
  - jekyll-remote-theme
