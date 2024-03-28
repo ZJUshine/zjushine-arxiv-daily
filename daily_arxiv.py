@@ -84,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query, max_results):
     """
     @param topic: str
     @param query: str
@@ -105,7 +105,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_title         = result.title
         paper_url           = result.entry_id
         code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
+        a      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
         primary_category    = result.primary_category
@@ -245,7 +245,6 @@ def json_to_md(filename,md_filename,
                to_web = False, 
                use_title = True, 
                use_tc = True,
-               show_badge = True,
                use_b2t = True):
     """
     @param filename: str
@@ -285,13 +284,7 @@ def json_to_md(filename,md_filename,
     with open(md_filename,"a+") as f:
 
         if (use_title == True) and (to_web == True):
-            f.write("---\n" + "layout: default\n" + "---\n\n")
-        
-        if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
+            f.write("---\n" + "layout: default\n" + "---\n\n") 
                 
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>zjushine-ARXIV-DAILY"
@@ -345,25 +338,6 @@ def json_to_md(filename,md_filename,
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
-            
-        if show_badge == True:
-            # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/ZJU shi ne/zjushine-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/ZJUshine/"
-                     f"zjushine-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/ZJUshine/"
-                     f"zjushine-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/ZJUshine/"
-                     f"zjushine-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/ZJUshine/"
-                     f"zjushine-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/ZJUshine/"
-                     f"zjushine-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/ZJUshine/"
-                     f"zjushine-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/ZJUshine/"
-                     f"zjushine-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
 
@@ -377,7 +351,6 @@ def demo(**config):
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
-    show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -403,8 +376,7 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+        json_to_md(json_file,md_file, task ='Update Readme')
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -416,8 +388,7 @@ def demo(**config):
         else:    
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            to_web = True, use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -429,7 +400,7 @@ def demo(**config):
         else:    
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= False)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
