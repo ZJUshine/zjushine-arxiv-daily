@@ -16,6 +16,6 @@ social_links:
   github: ZJUshine
 
 plugins:
- - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-remote-theme
  - jekyll-feed
  - jekyll-seo-tag
