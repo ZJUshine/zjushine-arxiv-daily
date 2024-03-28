@@ -2,11 +2,6 @@
 layout: default
 ---
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -39,13 +34,4 @@ layout: default
 |**2024-03-16**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|null|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|null|
 |**2024-02-29**|**PRSA: Prompt Reverse Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|null|
-
-[contributors-shield]: https://img.shields.io/github/contributors/ZJU shi ne/zjushine-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/issues
 

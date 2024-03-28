@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -47,13 +42,4 @@
 |**2024-02-29**|**PRSA: Prompt Reverse Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|null|
 
 <p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/ZJU shi ne/zjushine-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ZJUshine/zjushine-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/ZJUshine/zjushine-arxiv-daily/issues
 
