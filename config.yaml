@@ -8,11 +8,11 @@ publish_readme: True
 publish_gitpage: True
 
 # file paths
-json_readme_path: './zjushine-arxiv-daily.json'
-json_gitpage_path: './zjushine-arxiv-daily-web.json'
+json_readme_path: 'zjushine-arxiv-daily.json'
+json_gitpage_path: 'zjushine-arxiv-daily-web.json'
 
 md_readme_path: 'README.md'
-md_gitpage_path: './index.md'
+md_gitpage_path: 'index.md'
 
 # keywords to search
 keywords:

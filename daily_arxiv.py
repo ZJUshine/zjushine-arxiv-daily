@@ -102,8 +102,8 @@ def get_daily_papers(topic, query, max_results):
         try:
             content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|\n".format(
                     update_time,paper_title,paper_first_author,paper_key,paper_url)
-            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                    update_time,paper_title,paper_first_author,paper_url,paper_url)
+            content_to_web[paper_key] = "**Date**:{}, **Title**:[{}]({}), **Authors**:{} et.al. <br /> **Abstract**:{} <br /> ".format(
+                    update_time,paper_title,paper_url,paper_first_author,paper_abstract)
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
@@ -223,9 +223,6 @@ def json_to_md(filename, md_filename, task, to_web = False, ):
 
             if to_web == False:
                 f.write("|Publish Date|Title|Authors|PDF|\n" + "|---|---|---|---|\n")
-            else:
-                f.write("| Publish Date | Title | Authors | PDF |\n")
-                f.write("|:---------|:-----------------------|:---------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
@@ -278,7 +275,7 @@ def demo(**config):
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file,data_collector_web)
         json_to_md(json_file, md_file, task ='Update GitPage', to_web = True)
 
 
