@@ -100,10 +100,12 @@ def get_daily_papers(topic, query, max_results):
         paper_url = arxiv_url + 'abs/' + paper_key
         
         try:
+            # markdown version
             content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|\n".format(
-                    update_time,paper_title,paper_first_author,paper_key,paper_url)
-            content_to_web[paper_key] = "**Date**:{}, **Title**:[{}]({}), **Authors**:{} et.al. <br /> **Abstract**:{} <br /> ".format(
-                    update_time,paper_title,paper_url,paper_first_author,paper_abstract)
+                    update_time, paper_title, paper_first_author, paper_key, paper_url)
+            # web version
+            content_to_web[paper_key] = "### [{}]({}) <br /> **Date** {} **Authors** {} et.al. <br /> **Abstract** <br /> {} <br /> <br />".format(
+                    paper_title, paper_url, update_time, paper_first_author, paper_abstract)
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
@@ -236,7 +238,6 @@ def json_to_md(filename, md_filename, task, to_web = False, ):
     logging.info(f"{task} finished")        
 
 def demo(**config):
-    # TODO: use config
     data_collector = []
     data_collector_web= []
     
