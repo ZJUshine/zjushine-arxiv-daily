@@ -1,7 +1,8 @@
 title: ZJUshine Arxiv Daily
 description: Automatically Update Arixiv Papers Daily using Github Actions (Update Every 8th hours)
 show_downloads: true
-
+include:
+  - _assets/css/style.css
 github:
   zip_url: https://github.com/ZJUshine/zjushine-arxiv-daily
   another_url: https://github.com/ZJUshine/zjushine-arxiv-daily
