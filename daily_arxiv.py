@@ -114,43 +114,6 @@ def get_daily_papers(topic, query, max_results):
     data_web = {topic:content_to_web}
     return data,data_web 
 
-def update_paper_links(filename):
-    '''
-    weekly update paper links in json file 
-    '''
-    def parse_arxiv_string(s):
-        parts = s.split("|")
-        date = parts[1].strip()
-        title = parts[2].strip()
-        authors = parts[3].strip()
-        arxiv_id = parts[4].strip()
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id
-
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-        json_data = m.copy() 
-
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
-
-                update_time, paper_title, paper_first_author, paper_url = parse_arxiv_string(contents)
-
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
-
-        # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
-
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
@@ -246,37 +209,28 @@ def demo(**config):
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
 
-    b_update = config['update_paper_links']
-    logging.info(f'Update Paper Link = {b_update}')
-    if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
-        for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
-            print("\n")
-        logging.info(f"GET daily papers end")
+    logging.info(f"GET daily papers begin")
+    for topic, keyword in keywords.items():
+        logging.info(f"Keyword: {topic}")
+        data, data_web = get_daily_papers(topic, query = keyword,
+                                        max_results = max_results)
+        data_collector.append(data)
+        data_collector_web.append(data_web)
+        print("\n")
+    logging.info(f"GET daily papers end")
 
     # 1. update README.md file
     if publish_readme:
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file,data_collector)
+        update_json_file(json_file,data_collector)
         json_to_md(json_file,md_file, task ='Update Readme', to_web = False)
 
     # 2. update index.md file (to gitpage)
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file,data_collector_web)
+        update_json_file(json_file,data_collector_web)
         json_to_md(json_file, md_file, task ='Update GitPage', to_web = True)
 
 
@@ -284,10 +238,7 @@ def demo(**config):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
-                            help='configuration file path')
-    parser.add_argument('--update_paper_links', default=False,
-                        action="store_true",help='whether to update paper links etc.')                        
+                            help='configuration file path')                      
     args = parser.parse_args()
     config = load_config(args.config_path)
-    config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
