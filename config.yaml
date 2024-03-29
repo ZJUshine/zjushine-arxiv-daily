@@ -18,16 +18,8 @@ md_gitpage_path: 'index.md'
 keywords:
     "LLM Security and Privacy": 
         filters: ["LLM Security", "LLM Privacy"]
-    "LLM Robot":
-        filters: ["LLM Robot"]
-    "LLM Embodied AI":
-        filters: ["LLM Embodied AI"]
-    "LLM Autonomous Driving":
-        filters: ["LLM Autonomous Driving"]
     "LLM Applications":
         filters: ["LLM Applications"]
     "LLM survey":
         filters: ["LLM survey"]
-    "LLM IOT":
-        filters: ["LLM IOT"]
 
