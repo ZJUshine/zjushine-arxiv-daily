@@ -2,7 +2,7 @@ user_name: "ZJUshine"
 repo_name: "zjushine-arxiv-daily"
 show_authors: True
 show_links: True
-max_results: 10
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
@@ -16,8 +16,18 @@ md_gitpage_path: 'index.md'
 
 # keywords to search
 keywords:
-    "LLM Security": 
-        filters: ["LLM Security"]
-    "LLM Application":
-        filters: ["LLM Application"]
+    "LLM Security and Privacy": 
+        filters: ["LLM Security", "LLM Privacy"]
+    "LLM Robot":
+        filters: ["LLM Robot"]
+    "LLM Embodied AI":
+        filters: ["LLM Embodied AI"]
+    "LLM Autonomous Driving":
+        filters: ["LLM Autonomous Driving"]
+    "LLM Applications":
+        filters: ["LLM Applications"]
+    "LLM survey":
+        filters: ["LLM survey"]
+    "LLM IOT":
+        filters: ["LLM IOT"]
 

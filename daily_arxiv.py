@@ -52,6 +52,7 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -59,7 +60,7 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
+
   
 def get_daily_papers(topic, query, max_results):
     """
