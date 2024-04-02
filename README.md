@@ -69,7 +69,7 @@ Updated on 2024.04.02
 |**2023-11-28**|**Large Language Models Suffer From Their Own Output: An Analysis of the Self-Consuming Training Loop**|Martin Briesch et.al.|[2311.16822](http://arxiv.org/abs/2311.16822)|
 |**2023-11-19**|**A Security Risk Taxonomy for Large Language Models**|Erik Derner et.al.|[2311.11415](http://arxiv.org/abs/2311.11415)|
 |**2023-11-15**|**How Well Do Large Language Models Truly Ground?**|Hyunji Lee et.al.|[2311.09069](http://arxiv.org/abs/2311.09069)|
-|**2023-11-15**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
+|**2024-04-01**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
 |**2023-11-11**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
 |**2024-03-07**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
