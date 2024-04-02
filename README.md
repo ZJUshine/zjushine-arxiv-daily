@@ -1,4 +1,4 @@
-Updated on 2024.04.01
+Updated on 2024.04.02
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -60,7 +60,7 @@ Updated on 2024.04.01
 |**2024-02-19**|**INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning**|Yutao Zhu et.al.|[2401.06532](http://arxiv.org/abs/2401.06532)|
 |**2024-01-04**|**Large Language Models for Social Networks: Applications, Challenges, and Solutions**|Jingying Zeng et.al.|[2401.02575](http://arxiv.org/abs/2401.02575)|
 |**2023-12-31**|**RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models**|Yuanhao Wu et.al.|[2401.00396](http://arxiv.org/abs/2401.00396)|
-|**2023-12-12**|**ComplexityNet: Increasing LLM Inference Efficiency by Learning Task Complexity**|Henry Bae et.al.|[2312.11511](http://arxiv.org/abs/2312.11511)|
+|**2024-03-30**|**ComplexityNet: Increasing LLM Inference Efficiency by Learning Task Complexity**|Henry Bae et.al.|[2312.11511](http://arxiv.org/abs/2312.11511)|
 |**2024-01-07**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|
 |**2023-12-14**|**ChatSOS: LLM-based knowledge Q&A system for safety engineering**|Haiyang Tang et.al.|[2312.08629](http://arxiv.org/abs/2312.08629)|
 |**2023-12-11**|**METAL: Metamorphic Testing Framework for Analyzing Large-Language Model Qualities**|Sangwon Hyun et.al.|[2312.06056](http://arxiv.org/abs/2312.06056)|
