@@ -1,4 +1,4 @@
-Updated on 2024.04.03
+Updated on 2024.04.04
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -86,7 +86,7 @@ Updated on 2024.04.03
 |**2023-10-03**|**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**|Qingyun Wu et.al.|[2308.08155](http://arxiv.org/abs/2308.08155)|
 |**2023-08-26**|**A Preliminary Evaluation of LLM-Based Fault Localization**|Sungmin Kang et.al.|[2308.05487](http://arxiv.org/abs/2308.05487)|
 |**2023-08-01**|**Retrieval Augmented Generation and Representative Vector Summarization for large unstructured textual data in Medical Education**|S. S. Manathunga et.al.|[2308.00479](http://arxiv.org/abs/2308.00479)|
-|**2023-11-27**|**Towards Codable Watermarking for Injecting Multi-bit Information to LLM**|Lean Wang et.al.|[2307.15992](http://arxiv.org/abs/2307.15992)|
+|**2024-04-03**|**Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**|Lean Wang et.al.|[2307.15992](http://arxiv.org/abs/2307.15992)|
 |**2023-07-18**|**Development of the ChatGPT, Generative Artificial Intelligence and Natural Large Language Models for Accountable Reporting and Use (CANGARU) Guidelines**|Giovanni E. Cacciamani et.al.|[2307.08974](http://arxiv.org/abs/2307.08974)|
 |**2023-09-19**|**Concept-Oriented Deep Learning with Large Language Models**|Daniel T. Chang et.al.|[2306.17089](http://arxiv.org/abs/2306.17089)|
 |**2023-06-09**|**Protect Your Prompts: Protocols for IP Protection in LLM Applications**|M. A. van Wyk et.al.|[2306.06297](http://arxiv.org/abs/2306.06297)|
