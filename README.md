@@ -1,4 +1,4 @@
-Updated on 2024.04.07
+Updated on 2024.04.08
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -26,7 +26,7 @@ Updated on 2024.04.07
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-03-24**|**Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning**|Siyu Zha et.al.|[2403.16159](http://arxiv.org/abs/2403.16159)|
+|**2024-04-05**|**Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning**|Siyu Zha et.al.|[2403.16159](http://arxiv.org/abs/2403.16159)|
 |**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|
 |**2024-03-24**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|
 |**2024-03-04**|**Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications?**|Yotam Intrator et.al.|[2403.04792](http://arxiv.org/abs/2403.04792)|
@@ -52,7 +52,7 @@ Updated on 2024.04.07
 |**2024-02-06**|**Similarity-based Neighbor Selection for Graph LLMs**|Rui Li et.al.|[2402.03720](http://arxiv.org/abs/2402.03720)|
 |**2024-02-26**|**Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling**|Chao Zhang et.al.|[2402.01927](http://arxiv.org/abs/2402.01927)|
 |**2024-02-02**|**Building Guardrails for Large Language Models**|Yi Dong et.al.|[2402.01822](http://arxiv.org/abs/2402.01822)|
-|**2024-01-29**|**Compensatory Biases Under Cognitive Load: Reducing Selection Bias in Large Language Models**|J. E. Eicher et.al.|[2402.01740](http://arxiv.org/abs/2402.01740)|
+|**2024-04-04**|**Compensatory Biases Under Cognitive Load: Reducing Selection Bias in Large Language Models**|J. E. Eicher et.al.|[2402.01740](http://arxiv.org/abs/2402.01740)|
 |**2024-02-20**|**APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT**|Yiming Zhu et.al.|[2402.01697](http://arxiv.org/abs/2402.01697)|
 |**2023-12-28**|**DrugAssist: A Large Language Model for Molecule Optimization**|Geyan Ye et.al.|[2401.10334](http://arxiv.org/abs/2401.10334)|
 |**2024-03-19**|**DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**|Yinmin Zhong et.al.|[2401.09670](http://arxiv.org/abs/2401.09670)|
@@ -72,7 +72,7 @@ Updated on 2024.04.07
 |**2024-04-01**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
 |**2023-11-11**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
-|**2024-03-07**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
+|**2024-04-04**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
 |**2023-10-25**|**RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models**|Zefan Wang et.al.|[2310.16340](http://arxiv.org/abs/2310.16340)|
 |**2023-12-18**|**PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models**|Hongwei Yao et.al.|[2310.12439](http://arxiv.org/abs/2310.12439)|
 |**2023-10-16**|**NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails**|Traian Rebedea et.al.|[2310.10501](http://arxiv.org/abs/2310.10501)|
