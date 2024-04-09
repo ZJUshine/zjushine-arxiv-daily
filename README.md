@@ -26,6 +26,8 @@ Updated on 2024.04.09
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-07**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
+|**2024-04-08**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|
 |**2024-04-05**|**Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning**|Siyu Zha et.al.|[2403.16159](http://arxiv.org/abs/2403.16159)|
 |**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|
 |**2024-03-24**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|
