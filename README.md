@@ -26,6 +26,7 @@ Updated on 2024.04.11
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921](http://arxiv.org/abs/2404.06921)|
 |**2024-04-07**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
 |**2024-04-08**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|
 |**2024-04-05**|**Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning**|Siyu Zha et.al.|[2403.16159](http://arxiv.org/abs/2403.16159)|
