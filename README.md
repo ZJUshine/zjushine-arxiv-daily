@@ -1,8 +1,9 @@
-Updated on 2024.04.14
+Updated on 2024.04.15
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|
 |**2024-03-20**|**Mapping LLM Security Landscapes: A Comprehensive Stakeholder Risk Assessment Proposal**|Rahul Pankajakshan et.al.|[2403.13309](http://arxiv.org/abs/2403.13309)|
 |**2024-03-23**|**Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models**|Yi Luo et.al.|[2403.11838](http://arxiv.org/abs/2403.11838)|
 |**2024-03-13**|**Tastle: Distract Large Language Models for Automatic Jailbreak Attack**|Zeguan Xiao et.al.|[2403.08424](http://arxiv.org/abs/2403.08424)|
