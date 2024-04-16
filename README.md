@@ -27,6 +27,7 @@ Updated on 2024.04.16
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-14**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|
 |**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921](http://arxiv.org/abs/2404.06921)|
 |**2024-04-07**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
 |**2024-04-13**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|
@@ -34,7 +35,7 @@ Updated on 2024.04.16
 |**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|
 |**2024-03-24**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|
 |**2024-03-04**|**Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications?**|Yotam Intrator et.al.|[2403.04792](http://arxiv.org/abs/2403.04792)|
-|**2024-03-08**|**Do Large Language Model Understand Multi-Intent Spoken Language ?**|Shangjian Yin et.al.|[2403.04481](http://arxiv.org/abs/2403.04481)|
+|**2024-04-15**|**Do Large Language Model Understand Multi-Intent Spoken Language ?**|Shangjian Yin et.al.|[2403.04481](http://arxiv.org/abs/2403.04481)|
 |**2024-03-15**|**SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis**|Hengxing Cai et.al.|[2403.01976](http://arxiv.org/abs/2403.01976)|
 |**2024-03-04**|**Differentially Private Synthetic Data via Foundation Model APIs 2: Text**|Chulin Xie et.al.|[2403.01749](http://arxiv.org/abs/2403.01749)|
 |**2024-03-16**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|
