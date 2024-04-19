@@ -1,4 +1,4 @@
-Updated on 2024.04.18
+Updated on 2024.04.19
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -78,7 +78,7 @@ Updated on 2024.04.18
 |**2023-11-15**|**How Well Do Large Language Models Truly Ground?**|Hyunji Lee et.al.|[2311.09069](http://arxiv.org/abs/2311.09069)|
 |**2024-04-01**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
-|**2023-11-11**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
+|**2024-04-18**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
 |**2024-04-04**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
 |**2023-10-25**|**RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models**|Zefan Wang et.al.|[2310.16340](http://arxiv.org/abs/2310.16340)|
 |**2023-12-18**|**PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models**|Hongwei Yao et.al.|[2310.12439](http://arxiv.org/abs/2310.12439)|
