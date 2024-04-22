@@ -1,4 +1,4 @@
-Updated on 2024.04.21
+Updated on 2024.04.22
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -31,7 +31,7 @@ Updated on 2024.04.21
 |---|---|---|---|
 |**2024-04-14**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|
 |**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921](http://arxiv.org/abs/2404.06921)|
-|**2024-04-07**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
+|**2024-04-18**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
 |**2024-04-13**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|
 |**2024-04-05**|**Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning**|Siyu Zha et.al.|[2403.16159](http://arxiv.org/abs/2403.16159)|
 |**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|
