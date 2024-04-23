@@ -3,6 +3,7 @@ Updated on 2024.04.23
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-04-19**|**CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models**|Manish Bhatt et.al.|[2404.13161](http://arxiv.org/abs/2404.13161)|
 |**2024-04-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|
 |**2024-04-16**|**Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning**|Xiao Wang et.al.|[2404.10552](http://arxiv.org/abs/2404.10552)|
 |**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|
@@ -96,6 +97,7 @@ Updated on 2024.04.23
 |**2024-04-03**|**Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**|Lean Wang et.al.|[2307.15992](http://arxiv.org/abs/2307.15992)|
 |**2023-07-18**|**Development of the ChatGPT, Generative Artificial Intelligence and Natural Large Language Models for Accountable Reporting and Use (CANGARU) Guidelines**|Giovanni E. Cacciamani et.al.|[2307.08974](http://arxiv.org/abs/2307.08974)|
 |**2023-09-19**|**Concept-Oriented Deep Learning with Large Language Models**|Daniel T. Chang et.al.|[2306.17089](http://arxiv.org/abs/2306.17089)|
+|**2024-04-22**|**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**|Jiatong Li et.al.|[2306.06615](http://arxiv.org/abs/2306.06615)|
 |**2023-06-09**|**Protect Your Prompts: Protocols for IP Protection in LLM Applications**|M. A. van Wyk et.al.|[2306.06297](http://arxiv.org/abs/2306.06297)|
 |**2024-03-18**|**On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing**|Zeyan Liu et.al.|[2306.05524](http://arxiv.org/abs/2306.05524)|
 |**2023-10-19**|**Allies: Prompting Large Language Model with Beam Search**|Hao Sun et.al.|[2305.14766](http://arxiv.org/abs/2305.14766)|
