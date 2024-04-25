@@ -111,6 +111,6 @@ Updated on 2024.04.25
 |---|---|---|---|
 |**2024-02-26**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-02-16**|**Understanding Survey Paper Taxonomy about Large Language Models via Graph Representation Learning**|Jun Zhuang et.al.|[2402.10409](http://arxiv.org/abs/2402.10409)|
-|**2024-02-02**|**Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward**|Arnav Chavan et.al.|[2402.01799](http://arxiv.org/abs/2402.01799)|
+|**2024-04-24**|**Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward**|Arnav Chavan et.al.|[2402.01799](http://arxiv.org/abs/2402.01799)|
 |**2024-01-31**|**Efficient Large Language Models: A Survey**|Zhongwei Wan et.al.|[2312.03863](http://arxiv.org/abs/2312.03863)|
 
