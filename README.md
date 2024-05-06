@@ -32,6 +32,7 @@ Updated on 2024.05.06
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-02**|**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**|Zhiyu Zoey Chen et.al.|[2405.01769](http://arxiv.org/abs/2405.01769)|
 |**2024-04-30**|**RepEval: Effective Text Evaluation with LLM Representation**|Shuqian Sheng et.al.|[2404.19563](http://arxiv.org/abs/2404.19563)|
 |**2024-04-28**|**Generating Situated Reflection Triggers about Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning**|Atharva Naik et.al.|[2404.18262](http://arxiv.org/abs/2404.18262)|
 |**2024-04-26**|**Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**|Quan Zhang et.al.|[2404.17196](http://arxiv.org/abs/2404.17196)|
