@@ -24,7 +24,7 @@ Updated on 2024.05.07
 |**2024-03-20**|**A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**|Yifan Yao et.al.|[2312.02003](http://arxiv.org/abs/2312.02003)|
 |**2024-02-20**|**Reducing Privacy Risks in Online Self-Disclosures with Language Models**|Yao Dou et.al.|[2311.09538](http://arxiv.org/abs/2311.09538)|
 |**2023-10-16**|**Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks**|Shuyu Jiang et.al.|[2310.10077](http://arxiv.org/abs/2310.10077)|
-|**2023-10-11**|**Beyond Memorization: Violating Privacy Via Inference with Large Language Models**|Robin Staab et.al.|[2310.07298](http://arxiv.org/abs/2310.07298)|
+|**2024-05-06**|**Beyond Memorization: Violating Privacy Via Inference with Large Language Models**|Robin Staab et.al.|[2310.07298](http://arxiv.org/abs/2310.07298)|
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|
 |**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|
 
@@ -32,6 +32,7 @@ Updated on 2024.05.07
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-06**|**When LLMs Meet Cybersecurity: A Systematic Literature Review**|Jie Zhang et.al.|[2405.03644](http://arxiv.org/abs/2405.03644)|
 |**2024-05-02**|**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**|Zhiyu Zoey Chen et.al.|[2405.01769](http://arxiv.org/abs/2405.01769)|
 |**2024-04-30**|**RepEval: Effective Text Evaluation with LLM Representation**|Shuqian Sheng et.al.|[2404.19563](http://arxiv.org/abs/2404.19563)|
 |**2024-04-28**|**Generating Situated Reflection Triggers about Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning**|Atharva Naik et.al.|[2404.18262](http://arxiv.org/abs/2404.18262)|
