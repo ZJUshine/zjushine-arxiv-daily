@@ -32,6 +32,7 @@ Updated on 2024.05.08
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-07**|**A Fourth Wave of Open Data? Exploring the Spectrum of Scenarios for Open Data and Generative AI**|Hannah Chafetz et.al.|[2405.04333](http://arxiv.org/abs/2405.04333)|
 |**2024-05-06**|**When LLMs Meet Cybersecurity: A Systematic Literature Review**|Jie Zhang et.al.|[2405.03644](http://arxiv.org/abs/2405.03644)|
 |**2024-05-02**|**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**|Zhiyu Zoey Chen et.al.|[2405.01769](http://arxiv.org/abs/2405.01769)|
 |**2024-04-30**|**RepEval: Effective Text Evaluation with LLM Representation**|Shuqian Sheng et.al.|[2404.19563](http://arxiv.org/abs/2404.19563)|
