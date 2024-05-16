@@ -1,4 +1,4 @@
-Updated on 2024.05.15
+Updated on 2024.05.16
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -33,7 +33,7 @@ Updated on 2024.05.15
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-05-14**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|
-|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|
+|**2024-05-15**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|
 |**2024-05-10**|**Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation**|Jiangnan Li et.al.|[2405.06237](http://arxiv.org/abs/2405.06237)|
 |**2024-05-07**|**A Fourth Wave of Open Data? Exploring the Spectrum of Scenarios for Open Data and Generative AI**|Hannah Chafetz et.al.|[2405.04333](http://arxiv.org/abs/2405.04333)|
 |**2024-05-06**|**When LLMs Meet Cybersecurity: A Systematic Literature Review**|Jie Zhang et.al.|[2405.03644](http://arxiv.org/abs/2405.03644)|
