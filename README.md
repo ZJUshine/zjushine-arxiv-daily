@@ -3,6 +3,7 @@ Updated on 2024.05.17
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-16**|**SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data**|Abdulrahman Alabdulakreem et.al.|[2405.09805](http://arxiv.org/abs/2405.09805)|
 |**2024-05-03**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103](http://arxiv.org/abs/2405.01103)|
 |**2024-04-26**|**Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251](http://arxiv.org/abs/2404.16251)|
 |**2024-04-19**|**CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models**|Manish Bhatt et.al.|[2404.13161](http://arxiv.org/abs/2404.13161)|
