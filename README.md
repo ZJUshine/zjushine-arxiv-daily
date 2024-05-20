@@ -1,4 +1,4 @@
-Updated on 2024.05.19
+Updated on 2024.05.20
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -17,7 +17,7 @@ Updated on 2024.05.19
 |**2024-02-28**|**A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems**|Fangzhou Wu et.al.|[2402.18649](http://arxiv.org/abs/2402.18649)|
 |**2024-02-28**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|
 |**2024-02-20**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|
-|**2024-02-21**|**LLM Jailbreak Attack versus Defense Techniques -- A Comprehensive Study**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
+|**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
 |**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
 |**2024-02-09**|**Studious Bob Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
 |**2024-02-16**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
@@ -80,7 +80,7 @@ Updated on 2024.05.19
 |**2024-01-15**|**Graph database while computationally efficient filters out quickly the ESG integrated equities in investment management**|Partha Sen et.al.|[2401.07483](http://arxiv.org/abs/2401.07483)|
 |**2024-02-19**|**INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning**|Yutao Zhu et.al.|[2401.06532](http://arxiv.org/abs/2401.06532)|
 |**2024-01-04**|**Large Language Models for Social Networks: Applications, Challenges, and Solutions**|Jingying Zeng et.al.|[2401.02575](http://arxiv.org/abs/2401.02575)|
-|**2023-12-31**|**RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models**|Yuanhao Wu et.al.|[2401.00396](http://arxiv.org/abs/2401.00396)|
+|**2024-05-17**|**RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models**|Cheng Niu et.al.|[2401.00396](http://arxiv.org/abs/2401.00396)|
 |**2024-03-30**|**ComplexityNet: Increasing LLM Inference Efficiency by Learning Task Complexity**|Henry Bae et.al.|[2312.11511](http://arxiv.org/abs/2312.11511)|
 |**2024-01-07**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|
 |**2023-12-14**|**ChatSOS: LLM-based knowledge Q&A system for safety engineering**|Haiyang Tang et.al.|[2312.08629](http://arxiv.org/abs/2312.08629)|
