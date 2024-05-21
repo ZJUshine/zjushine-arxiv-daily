@@ -1,4 +1,4 @@
-Updated on 2024.05.20
+Updated on 2024.05.21
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -102,6 +102,7 @@ Updated on 2024.05.20
 |**2024-03-03**|**People's Perceptions Toward Bias and Related Concepts in Large Language Models: A Systematic Review**|Lu Wang et.al.|[2309.14504](http://arxiv.org/abs/2309.14504)|
 |**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379](http://arxiv.org/abs/2309.14379)|
 |**2024-05-16**|**AnglE-optimized Text Embeddings**|Xianming Li et.al.|[2309.12871](http://arxiv.org/abs/2309.12871)|
+|**2024-05-16**|**Redefining Qualitative Analysis in the AI Era: Utilizing ChatGPT for Efficient Thematic Analysis**|He Zhang et.al.|[2309.10771](http://arxiv.org/abs/2309.10771)|
 |**2023-09-06**|**Hide and Seek (HaS): A Lightweight Framework for Prompt Privacy Protection**|Yu Chen et.al.|[2309.03057](http://arxiv.org/abs/2309.03057)|
 |**2023-09-18**|**A Study on the Implementation of Generative AI Services Using an Enterprise Data-Based LLM Application Architecture**|Cheonsu Jeong et.al.|[2309.01105](http://arxiv.org/abs/2309.01105)|
 |**2023-08-17**|**ChatGPT-HealthPrompt. Harnessing the Power of XAI in Prompt-Based Healthcare Decision Support using ChatGPT**|Fatemeh Nazary et.al.|[2308.09731](http://arxiv.org/abs/2308.09731)|
@@ -123,6 +124,7 @@ Updated on 2024.05.20
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-17**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|
 |**2024-02-26**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-02-16**|**Understanding Survey Paper Taxonomy about Large Language Models via Graph Representation Learning**|Jun Zhuang et.al.|[2402.10409](http://arxiv.org/abs/2402.10409)|
 |**2024-04-24**|**Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward**|Arnav Chavan et.al.|[2402.01799](http://arxiv.org/abs/2402.01799)|
