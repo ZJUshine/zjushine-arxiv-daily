@@ -33,6 +33,7 @@ Updated on 2024.05.22
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|
 |**2024-05-14**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|
 |**2024-05-15**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|
 |**2024-05-10**|**Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation**|Jiangnan Li et.al.|[2405.06237](http://arxiv.org/abs/2405.06237)|
