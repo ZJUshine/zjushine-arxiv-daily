@@ -61,7 +61,7 @@ Updated on 2024.05.24
 |**2024-02-27**|**LLMGuard: Guarding Against Unsafe LLM Behavior**|Shubh Goyal et.al.|[2403.00826](http://arxiv.org/abs/2403.00826)|
 |**2024-02-29**|**PRSA: Prompt Reverse Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|
 |**2024-02-26**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
-|**2024-02-22**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|
+|**2024-05-23**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|
 |**2024-02-21**|**An Evaluation of Large Language Models in Bioinformatics Research**|Hengchuang Yin et.al.|[2402.13714](http://arxiv.org/abs/2402.13714)|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|
 |**2024-02-18**|**Ain't Misbehavin' -- Using LLMs to Generate Expressive Robot Behavior in Conversations with the Tabletop Robot Haru**|Zining Wang et.al.|[2402.11571](http://arxiv.org/abs/2402.11571)|
@@ -129,5 +129,5 @@ Updated on 2024.05.24
 |**2024-02-26**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-02-16**|**Understanding Survey Paper Taxonomy about Large Language Models via Graph Representation Learning**|Jun Zhuang et.al.|[2402.10409](http://arxiv.org/abs/2402.10409)|
 |**2024-04-24**|**Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward**|Arnav Chavan et.al.|[2402.01799](http://arxiv.org/abs/2402.01799)|
-|**2024-01-31**|**Efficient Large Language Models: A Survey**|Zhongwei Wan et.al.|[2312.03863](http://arxiv.org/abs/2312.03863)|
+|**2024-05-23**|**Efficient Large Language Models: A Survey**|Zhongwei Wan et.al.|[2312.03863](http://arxiv.org/abs/2312.03863)|
 
