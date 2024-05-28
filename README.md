@@ -3,6 +3,8 @@ Updated on 2024.05.28
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-25**|**FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference**|Chenqi Lin et.al.|[2405.16241](http://arxiv.org/abs/2405.16241)|
+|**2024-05-24**|**Hacc-Man: An Arcade Game for Jailbreaking LLMs**|Matheus Valentim et.al.|[2405.15902](http://arxiv.org/abs/2405.15902)|
 |**2024-05-16**|**SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data**|Abdulrahman Alabdulakreem et.al.|[2405.09805](http://arxiv.org/abs/2405.09805)|
 |**2024-05-03**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103](http://arxiv.org/abs/2405.01103)|
 |**2024-04-26**|**Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251](http://arxiv.org/abs/2404.16251)|
@@ -33,6 +35,7 @@ Updated on 2024.05.28
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-25**|**STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**|Chuanhao Li et.al.|[2405.16376](http://arxiv.org/abs/2405.16376)|
 |**2024-05-24**|**Assessing Political Bias in Large Language Models**|Luca Rettenberger et.al.|[2405.13041](http://arxiv.org/abs/2405.13041)|
 |**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|
 |**2024-05-14**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|
