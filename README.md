@@ -35,6 +35,7 @@ Updated on 2024.05.29
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-28**|**Towards Integrating Emerging AI Applications in SE Education**|Michael Vierhauser et.al.|[2405.18062](http://arxiv.org/abs/2405.18062)|
 |**2024-05-28**|**STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**|Chuanhao Li et.al.|[2405.16376](http://arxiv.org/abs/2405.16376)|
 |**2024-05-24**|**Assessing Political Bias in Large Language Models**|Luca Rettenberger et.al.|[2405.13041](http://arxiv.org/abs/2405.13041)|
 |**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|
