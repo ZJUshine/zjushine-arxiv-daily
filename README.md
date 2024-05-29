@@ -1,4 +1,4 @@
-Updated on 2024.05.28
+Updated on 2024.05.29
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -35,7 +35,7 @@ Updated on 2024.05.28
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-05-25**|**STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**|Chuanhao Li et.al.|[2405.16376](http://arxiv.org/abs/2405.16376)|
+|**2024-05-28**|**STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**|Chuanhao Li et.al.|[2405.16376](http://arxiv.org/abs/2405.16376)|
 |**2024-05-24**|**Assessing Political Bias in Large Language Models**|Luca Rettenberger et.al.|[2405.13041](http://arxiv.org/abs/2405.13041)|
 |**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|
 |**2024-05-14**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|
@@ -83,7 +83,7 @@ Updated on 2024.05.28
 |**2023-12-28**|**DrugAssist: A Large Language Model for Molecule Optimization**|Geyan Ye et.al.|[2401.10334](http://arxiv.org/abs/2401.10334)|
 |**2024-03-19**|**DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**|Yinmin Zhong et.al.|[2401.09670](http://arxiv.org/abs/2401.09670)|
 |**2024-01-15**|**Graph database while computationally efficient filters out quickly the ESG integrated equities in investment management**|Partha Sen et.al.|[2401.07483](http://arxiv.org/abs/2401.07483)|
-|**2024-02-19**|**INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning**|Yutao Zhu et.al.|[2401.06532](http://arxiv.org/abs/2401.06532)|
+|**2024-05-28**|**INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning**|Yutao Zhu et.al.|[2401.06532](http://arxiv.org/abs/2401.06532)|
 |**2024-01-04**|**Large Language Models for Social Networks: Applications, Challenges, and Solutions**|Jingying Zeng et.al.|[2401.02575](http://arxiv.org/abs/2401.02575)|
 |**2024-05-17**|**RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models**|Cheng Niu et.al.|[2401.00396](http://arxiv.org/abs/2401.00396)|
 |**2024-03-30**|**ComplexityNet: Increasing LLM Inference Efficiency by Learning Task Complexity**|Henry Bae et.al.|[2312.11511](http://arxiv.org/abs/2312.11511)|
@@ -107,7 +107,7 @@ Updated on 2024.05.28
 |**2024-03-03**|**People's Perceptions Toward Bias and Related Concepts in Large Language Models: A Systematic Review**|Lu Wang et.al.|[2309.14504](http://arxiv.org/abs/2309.14504)|
 |**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379](http://arxiv.org/abs/2309.14379)|
 |**2024-05-16**|**AnglE-optimized Text Embeddings**|Xianming Li et.al.|[2309.12871](http://arxiv.org/abs/2309.12871)|
-|**2024-05-16**|**Redefining Qualitative Analysis in the AI Era: Utilizing ChatGPT for Efficient Thematic Analysis**|He Zhang et.al.|[2309.10771](http://arxiv.org/abs/2309.10771)|
+|**2024-05-28**|**Redefining Qualitative Analysis in the AI Era: Utilizing ChatGPT for Efficient Thematic Analysis**|He Zhang et.al.|[2309.10771](http://arxiv.org/abs/2309.10771)|
 |**2023-09-06**|**Hide and Seek (HaS): A Lightweight Framework for Prompt Privacy Protection**|Yu Chen et.al.|[2309.03057](http://arxiv.org/abs/2309.03057)|
 |**2023-09-18**|**A Study on the Implementation of Generative AI Services Using an Enterprise Data-Based LLM Application Architecture**|Cheonsu Jeong et.al.|[2309.01105](http://arxiv.org/abs/2309.01105)|
 |**2023-08-17**|**ChatGPT-HealthPrompt. Harnessing the Power of XAI in Prompt-Based Healthcare Decision Support using ChatGPT**|Fatemeh Nazary et.al.|[2308.09731](http://arxiv.org/abs/2308.09731)|
