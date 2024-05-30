@@ -18,6 +18,7 @@ Updated on 2024.05.30
 |**2024-03-14**|**On Protecting the Data Privacy of Large Language Models (LLMs): A Survey**|Biwei Yan et.al.|[2403.05156](http://arxiv.org/abs/2403.05156)|
 |**2024-02-28**|**A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems**|Fangzhou Wu et.al.|[2402.18649](http://arxiv.org/abs/2402.18649)|
 |**2024-02-28**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|
+|**2024-05-28**|**Pandora's White-Box: Precise Training Data Detection and Extraction in Large Language Models**|Jeffrey G. Wang et.al.|[2402.17012](http://arxiv.org/abs/2402.17012)|
 |**2024-02-20**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
 |**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
@@ -35,6 +36,7 @@ Updated on 2024.05.30
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-29**|**LLMs achieve adult human performance on higher-order theory of mind tasks**|Winnie Street et.al.|[2405.18870](http://arxiv.org/abs/2405.18870)|
 |**2024-05-28**|**Towards Integrating Emerging AI Applications in SE Education**|Michael Vierhauser et.al.|[2405.18062](http://arxiv.org/abs/2405.18062)|
 |**2024-05-28**|**STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**|Chuanhao Li et.al.|[2405.16376](http://arxiv.org/abs/2405.16376)|
 |**2024-05-24**|**Assessing Political Bias in Large Language Models**|Luca Rettenberger et.al.|[2405.13041](http://arxiv.org/abs/2405.13041)|
@@ -48,7 +50,7 @@ Updated on 2024.05.30
 |**2024-04-30**|**RepEval: Effective Text Evaluation with LLM Representation**|Shuqian Sheng et.al.|[2404.19563](http://arxiv.org/abs/2404.19563)|
 |**2024-04-28**|**Generating Situated Reflection Triggers about Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning**|Atharva Naik et.al.|[2404.18262](http://arxiv.org/abs/2404.18262)|
 |**2024-04-26**|**Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**|Quan Zhang et.al.|[2404.17196](http://arxiv.org/abs/2404.17196)|
-|**2024-05-22**|**A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry**|Yining Huang et.al.|[2404.15777](http://arxiv.org/abs/2404.15777)|
+|**2024-05-29**|**A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry**|Yining Huang et.al.|[2404.15777](http://arxiv.org/abs/2404.15777)|
 |**2024-05-20**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|
 |**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921](http://arxiv.org/abs/2404.06921)|
 |**2024-04-18**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
