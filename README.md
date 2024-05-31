@@ -36,6 +36,7 @@ Updated on 2024.05.31
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-30**|**Parrot: Efficient Serving of LLM-based Applications with Semantic Variable**|Chaofan Lin et.al.|[2405.19888](http://arxiv.org/abs/2405.19888)|
 |**2024-05-29**|**LLMs achieve adult human performance on higher-order theory of mind tasks**|Winnie Street et.al.|[2405.18870](http://arxiv.org/abs/2405.18870)|
 |**2024-05-28**|**Towards Integrating Emerging AI Applications in SE Education**|Michael Vierhauser et.al.|[2405.18062](http://arxiv.org/abs/2405.18062)|
 |**2024-05-28**|**STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**|Chuanhao Li et.al.|[2405.16376](http://arxiv.org/abs/2405.16376)|
