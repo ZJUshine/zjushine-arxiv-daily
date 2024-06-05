@@ -19,11 +19,12 @@ Updated on 2024.06.05
 |**2024-02-28**|**A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems**|Fangzhou Wu et.al.|[2402.18649](http://arxiv.org/abs/2402.18649)|
 |**2024-02-28**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|
 |**2024-05-28**|**Pandora's White-Box: Precise Training Data Detection and Extraction in Large Language Models**|Jeffrey G. Wang et.al.|[2402.17012](http://arxiv.org/abs/2402.17012)|
+|**2024-06-04**|**ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings**|Hao Wang et.al.|[2402.16006](http://arxiv.org/abs/2402.16006)|
 |**2024-02-20**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
 |**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
 |**2024-02-09**|**Studious Bob Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
-|**2024-02-16**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
+|**2024-06-04**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
 |**2023-12-18**|**A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models**|Aysan Esmradi et.al.|[2312.10982](http://arxiv.org/abs/2312.10982)|
 |**2024-03-20**|**A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**|Yifan Yao et.al.|[2312.02003](http://arxiv.org/abs/2312.02003)|
 |**2024-02-20**|**Reducing Privacy Risks in Online Self-Disclosures with Language Models**|Yao Dou et.al.|[2311.09538](http://arxiv.org/abs/2311.09538)|
@@ -36,6 +37,8 @@ Updated on 2024.06.05
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-05-27**|**Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark**|Hongliu Cao et.al.|[2406.01607](http://arxiv.org/abs/2406.01607)|
+|**2024-06-03**|**Luna: An Evaluation Foundation Model to Catch Language Model Hallucinations with High Accuracy and Low Cost**|Masha Belyi et.al.|[2406.00975](http://arxiv.org/abs/2406.00975)|
 |**2024-05-30**|**Parrot: Efficient Serving of LLM-based Applications with Semantic Variable**|Chaofan Lin et.al.|[2405.19888](http://arxiv.org/abs/2405.19888)|
 |**2024-05-31**|**LLMs achieve adult human performance on higher-order theory of mind tasks**|Winnie Street et.al.|[2405.18870](http://arxiv.org/abs/2405.18870)|
 |**2024-06-03**|**Towards Integrating Emerging AI Applications in SE Education**|Michael Vierhauser et.al.|[2405.18062](http://arxiv.org/abs/2405.18062)|
@@ -101,6 +104,7 @@ Updated on 2024.06.05
 |**2024-04-28**|**The Ups and Downs of Large Language Model Inference with Vocabulary Trimming by Language Heuristics**|Nikolay Bogoychev et.al.|[2311.09709](http://arxiv.org/abs/2311.09709)|
 |**2023-11-15**|**How Well Do Large Language Models Truly Ground?**|Hyunji Lee et.al.|[2311.09069](http://arxiv.org/abs/2311.09069)|
 |**2024-04-01**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
+|**2024-06-04**|**Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**|Ziyin Zhang et.al.|[2311.07989](http://arxiv.org/abs/2311.07989)|
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
 |**2024-04-18**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
 |**2024-04-04**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
