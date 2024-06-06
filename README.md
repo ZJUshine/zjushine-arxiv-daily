@@ -37,8 +37,10 @@ Updated on 2024.06.06
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-05**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339](http://arxiv.org/abs/2406.03339)|
+|**2024-06-05**|**Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models**|Sheng-Lun Wei et.al.|[2406.03009](http://arxiv.org/abs/2406.03009)|
 |**2024-05-27**|**Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark**|Hongliu Cao et.al.|[2406.01607](http://arxiv.org/abs/2406.01607)|
-|**2024-06-03**|**Luna: An Evaluation Foundation Model to Catch Language Model Hallucinations with High Accuracy and Low Cost**|Masha Belyi et.al.|[2406.00975](http://arxiv.org/abs/2406.00975)|
+|**2024-06-05**|**Luna: An Evaluation Foundation Model to Catch Language Model Hallucinations with High Accuracy and Low Cost**|Masha Belyi et.al.|[2406.00975](http://arxiv.org/abs/2406.00975)|
 |**2024-05-30**|**Parrot: Efficient Serving of LLM-based Applications with Semantic Variable**|Chaofan Lin et.al.|[2405.19888](http://arxiv.org/abs/2405.19888)|
 |**2024-05-31**|**LLMs achieve adult human performance on higher-order theory of mind tasks**|Winnie Street et.al.|[2405.18870](http://arxiv.org/abs/2405.18870)|
 |**2024-06-03**|**Towards Integrating Emerging AI Applications in SE Education**|Michael Vierhauser et.al.|[2405.18062](http://arxiv.org/abs/2405.18062)|
