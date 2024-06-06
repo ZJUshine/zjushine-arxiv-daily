@@ -1,4 +1,4 @@
-Updated on 2024.06.05
+Updated on 2024.06.06
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -24,7 +24,7 @@ Updated on 2024.06.05
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
 |**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
 |**2024-02-09**|**Studious Bob Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
-|**2024-06-04**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
+|**2024-06-05**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
 |**2023-12-18**|**A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models**|Aysan Esmradi et.al.|[2312.10982](http://arxiv.org/abs/2312.10982)|
 |**2024-03-20**|**A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**|Yifan Yao et.al.|[2312.02003](http://arxiv.org/abs/2312.02003)|
 |**2024-02-20**|**Reducing Privacy Risks in Online Self-Disclosures with Language Models**|Yao Dou et.al.|[2311.09538](http://arxiv.org/abs/2311.09538)|
@@ -43,7 +43,7 @@ Updated on 2024.06.05
 |**2024-05-31**|**LLMs achieve adult human performance on higher-order theory of mind tasks**|Winnie Street et.al.|[2405.18870](http://arxiv.org/abs/2405.18870)|
 |**2024-06-03**|**Towards Integrating Emerging AI Applications in SE Education**|Michael Vierhauser et.al.|[2405.18062](http://arxiv.org/abs/2405.18062)|
 |**2024-05-28**|**STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**|Chuanhao Li et.al.|[2405.16376](http://arxiv.org/abs/2405.16376)|
-|**2024-05-24**|**Assessing Political Bias in Large Language Models**|Luca Rettenberger et.al.|[2405.13041](http://arxiv.org/abs/2405.13041)|
+|**2024-06-05**|**Assessing Political Bias in Large Language Models**|Luca Rettenberger et.al.|[2405.13041](http://arxiv.org/abs/2405.13041)|
 |**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|
 |**2024-05-14**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|
 |**2024-06-03**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|
@@ -71,7 +71,7 @@ Updated on 2024.06.05
 |**2024-02-28**|**TroubleLLM: Align to Red Team Expert**|Zhuoer Xu et.al.|[2403.00829](http://arxiv.org/abs/2403.00829)|
 |**2024-02-27**|**LLMGuard: Guarding Against Unsafe LLM Behavior**|Shubh Goyal et.al.|[2403.00826](http://arxiv.org/abs/2403.00826)|
 |**2024-02-29**|**PRSA: Prompt Reverse Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|
-|**2024-02-26**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
+|**2024-06-05**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-05-23**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|
 |**2024-02-21**|**An Evaluation of Large Language Models in Bioinformatics Research**|Hengchuang Yin et.al.|[2402.13714](http://arxiv.org/abs/2402.13714)|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|
@@ -138,7 +138,7 @@ Updated on 2024.06.05
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-05-17**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|
-|**2024-02-26**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
+|**2024-06-05**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-02-16**|**Understanding Survey Paper Taxonomy about Large Language Models via Graph Representation Learning**|Jun Zhuang et.al.|[2402.10409](http://arxiv.org/abs/2402.10409)|
 |**2024-04-24**|**Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward**|Arnav Chavan et.al.|[2402.01799](http://arxiv.org/abs/2402.01799)|
 |**2024-05-23**|**Efficient Large Language Models: A Survey**|Zhongwei Wan et.al.|[2312.03863](http://arxiv.org/abs/2312.03863)|
