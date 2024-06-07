@@ -3,6 +3,7 @@ Updated on 2024.06.07
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-06**|**AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens**|Lin Lu et.al.|[2406.03805](http://arxiv.org/abs/2406.03805)|
 |**2024-05-25**|**FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference**|Chenqi Lin et.al.|[2405.16241](http://arxiv.org/abs/2405.16241)|
 |**2024-05-24**|**Hacc-Man: An Arcade Game for Jailbreaking LLMs**|Matheus Valentim et.al.|[2405.15902](http://arxiv.org/abs/2405.15902)|
 |**2024-05-16**|**SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data**|Abdulrahman Alabdulakreem et.al.|[2405.09805](http://arxiv.org/abs/2405.09805)|
@@ -37,6 +38,7 @@ Updated on 2024.06.07
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712](http://arxiv.org/abs/2406.03712)|
 |**2024-06-05**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339](http://arxiv.org/abs/2406.03339)|
 |**2024-06-05**|**Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models**|Sheng-Lun Wei et.al.|[2406.03009](http://arxiv.org/abs/2406.03009)|
 |**2024-05-27**|**Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark**|Hongliu Cao et.al.|[2406.01607](http://arxiv.org/abs/2406.01607)|
@@ -81,7 +83,7 @@ Updated on 2024.06.07
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|
 |**2024-02-15**|**Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination**|Yijiang River Dong et.al.|[2402.10052](http://arxiv.org/abs/2402.10052)|
 |**2024-06-01**|**Anchor-based Large Language Models**|Jianhui Pang et.al.|[2402.07616](http://arxiv.org/abs/2402.07616)|
-|**2024-02-12**|**T-RAG: Lessons from the LLM Trenches**|Masoomali Fatehkia et.al.|[2402.07483](http://arxiv.org/abs/2402.07483)|
+|**2024-06-06**|**T-RAG: Lessons from the LLM Trenches**|Masoomali Fatehkia et.al.|[2402.07483](http://arxiv.org/abs/2402.07483)|
 |**2024-02-02**|**A Survey on Large Language Model Hallucination via a Creativity Perspective**|Xuhui Jiang et.al.|[2402.06647](http://arxiv.org/abs/2402.06647)|
 |**2024-02-09**|**Task Supportive and Personalized Human-Large Language Model Interaction: A User Study**|Ben Wang et.al.|[2402.06170](http://arxiv.org/abs/2402.06170)|
 |**2024-02-06**|**Similarity-based Neighbor Selection for Graph LLMs**|Rui Li et.al.|[2402.03720](http://arxiv.org/abs/2402.03720)|
@@ -90,7 +92,7 @@ Updated on 2024.06.07
 |**2024-04-04**|**Compensatory Biases Under Cognitive Load: Reducing Selection Bias in Large Language Models**|J. E. Eicher et.al.|[2402.01740](http://arxiv.org/abs/2402.01740)|
 |**2024-02-20**|**APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT**|Yiming Zhu et.al.|[2402.01697](http://arxiv.org/abs/2402.01697)|
 |**2023-12-28**|**DrugAssist: A Large Language Model for Molecule Optimization**|Geyan Ye et.al.|[2401.10334](http://arxiv.org/abs/2401.10334)|
-|**2024-03-19**|**DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**|Yinmin Zhong et.al.|[2401.09670](http://arxiv.org/abs/2401.09670)|
+|**2024-06-06**|**DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**|Yinmin Zhong et.al.|[2401.09670](http://arxiv.org/abs/2401.09670)|
 |**2024-01-15**|**Graph database while computationally efficient filters out quickly the ESG integrated equities in investment management**|Partha Sen et.al.|[2401.07483](http://arxiv.org/abs/2401.07483)|
 |**2024-05-28**|**INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning**|Yutao Zhu et.al.|[2401.06532](http://arxiv.org/abs/2401.06532)|
 |**2024-01-04**|**Large Language Models for Social Networks: Applications, Challenges, and Solutions**|Jingying Zeng et.al.|[2401.02575](http://arxiv.org/abs/2401.02575)|
