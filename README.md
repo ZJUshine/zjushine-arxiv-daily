@@ -18,13 +18,13 @@ Updated on 2024.06.11
 |**2024-03-13**|**Tastle: Distract Large Language Models for Automatic Jailbreak Attack**|Zeguan Xiao et.al.|[2403.08424](http://arxiv.org/abs/2403.08424)|
 |**2024-03-14**|**On Protecting the Data Privacy of Large Language Models (LLMs): A Survey**|Biwei Yan et.al.|[2403.05156](http://arxiv.org/abs/2403.05156)|
 |**2024-02-28**|**A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems**|Fangzhou Wu et.al.|[2402.18649](http://arxiv.org/abs/2402.18649)|
-|**2024-02-28**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|
+|**2024-06-10**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|
 |**2024-05-28**|**Pandora's White-Box: Precise Training Data Detection and Extraction in Large Language Models**|Jeffrey G. Wang et.al.|[2402.17012](http://arxiv.org/abs/2402.17012)|
 |**2024-06-04**|**ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings**|Hao Wang et.al.|[2402.16006](http://arxiv.org/abs/2402.16006)|
 |**2024-02-20**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
 |**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
-|**2024-02-09**|**Studious Bob Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
+|**2024-06-09**|**Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
 |**2024-06-05**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
 |**2023-12-18**|**A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models**|Aysan Esmradi et.al.|[2312.10982](http://arxiv.org/abs/2312.10982)|
 |**2024-03-20**|**A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**|Yifan Yao et.al.|[2312.02003](http://arxiv.org/abs/2312.02003)|
@@ -110,12 +110,13 @@ Updated on 2024.06.11
 |**2024-04-01**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
 |**2024-06-04**|**Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**|Ziyin Zhang et.al.|[2311.07989](http://arxiv.org/abs/2311.07989)|
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
-|**2024-04-18**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
+|**2024-06-10**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
 |**2024-04-04**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
 |**2023-10-25**|**RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models**|Zefan Wang et.al.|[2310.16340](http://arxiv.org/abs/2310.16340)|
 |**2023-12-18**|**PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models**|Hongwei Yao et.al.|[2310.12439](http://arxiv.org/abs/2310.12439)|
 |**2023-10-16**|**NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails**|Traian Rebedea et.al.|[2310.10501](http://arxiv.org/abs/2310.10501)|
 |**2023-09-28**|**Chatmap : Large Language Model Interaction with Cartographic Data**|Eren Unlu et.al.|[2310.01429](http://arxiv.org/abs/2310.01429)|
+|**2024-06-10**|**"I'd Like to Have an Argument, Please": Argumentative Reasoning in Large Language Models**|Adrian de Wynter et.al.|[2309.16938](http://arxiv.org/abs/2309.16938)|
 |**2024-03-03**|**People's Perceptions Toward Bias and Related Concepts in Large Language Models: A Systematic Review**|Lu Wang et.al.|[2309.14504](http://arxiv.org/abs/2309.14504)|
 |**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379](http://arxiv.org/abs/2309.14379)|
 |**2024-05-16**|**AnglE-optimized Text Embeddings**|Xianming Li et.al.|[2309.12871](http://arxiv.org/abs/2309.12871)|
