@@ -1,4 +1,4 @@
-Updated on 2024.06.10
+Updated on 2024.06.11
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -74,7 +74,7 @@ Updated on 2024.06.10
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|
 |**2024-02-28**|**TroubleLLM: Align to Red Team Expert**|Zhuoer Xu et.al.|[2403.00829](http://arxiv.org/abs/2403.00829)|
 |**2024-02-27**|**LLMGuard: Guarding Against Unsafe LLM Behavior**|Shubh Goyal et.al.|[2403.00826](http://arxiv.org/abs/2403.00826)|
-|**2024-02-29**|**PRSA: Prompt Reverse Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|
+|**2024-06-08**|**PRSA: PRompt Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|
 |**2024-06-05**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-05-23**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|
 |**2024-02-21**|**An Evaluation of Large Language Models in Bioinformatics Research**|Hengchuang Yin et.al.|[2402.13714](http://arxiv.org/abs/2402.13714)|
