@@ -1,4 +1,4 @@
-Updated on 2024.06.13
+Updated on 2024.06.14
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -39,7 +39,7 @@ Updated on 2024.06.13
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712](http://arxiv.org/abs/2406.03712)|
-|**2024-06-05**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339](http://arxiv.org/abs/2406.03339)|
+|**2024-06-13**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339](http://arxiv.org/abs/2406.03339)|
 |**2024-06-05**|**Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models**|Sheng-Lun Wei et.al.|[2406.03009](http://arxiv.org/abs/2406.03009)|
 |**2024-05-27**|**Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark**|Hongliu Cao et.al.|[2406.01607](http://arxiv.org/abs/2406.01607)|
 |**2024-06-05**|**Luna: An Evaluation Foundation Model to Catch Language Model Hallucinations with High Accuracy and Low Cost**|Masha Belyi et.al.|[2406.00975](http://arxiv.org/abs/2406.00975)|
