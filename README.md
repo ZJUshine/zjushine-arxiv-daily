@@ -6,7 +6,7 @@ Updated on 2024.06.14
 |**2024-06-06**|**AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens**|Lin Lu et.al.|[2406.03805](http://arxiv.org/abs/2406.03805)|
 |**2024-05-25**|**FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference**|Chenqi Lin et.al.|[2405.16241](http://arxiv.org/abs/2405.16241)|
 |**2024-05-24**|**Hacc-Man: An Arcade Game for Jailbreaking LLMs**|Matheus Valentim et.al.|[2405.15902](http://arxiv.org/abs/2405.15902)|
-|**2024-05-16**|**SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data**|Abdulrahman Alabdulakreem et.al.|[2405.09805](http://arxiv.org/abs/2405.09805)|
+|**2024-06-13**|**SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data**|Abdulrahman Alabdulkareem et.al.|[2405.09805](http://arxiv.org/abs/2405.09805)|
 |**2024-05-03**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103](http://arxiv.org/abs/2405.01103)|
 |**2024-04-26**|**Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251](http://arxiv.org/abs/2404.16251)|
 |**2024-04-19**|**CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models**|Manish Bhatt et.al.|[2404.13161](http://arxiv.org/abs/2404.13161)|
@@ -38,6 +38,7 @@ Updated on 2024.06.14
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-12**|**CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery**|Xiaoshuai Song et.al.|[2406.08587](http://arxiv.org/abs/2406.08587)|
 |**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712](http://arxiv.org/abs/2406.03712)|
 |**2024-06-13**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339](http://arxiv.org/abs/2406.03339)|
 |**2024-06-05**|**Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models**|Sheng-Lun Wei et.al.|[2406.03009](http://arxiv.org/abs/2406.03009)|
