@@ -3,6 +3,8 @@ Updated on 2024.06.18
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-17**|**Self and Cross-Model Distillation for LLMs: Effective Methods for Refusal Pattern Alignment**|Jie Li et.al.|[2406.11285](http://arxiv.org/abs/2406.11285)|
+|**2024-06-16**|**garak: A Framework for Security Probing Large Language Models**|Leon Derczynski et.al.|[2406.11036](http://arxiv.org/abs/2406.11036)|
 |**2024-06-06**|**AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens**|Lin Lu et.al.|[2406.03805](http://arxiv.org/abs/2406.03805)|
 |**2024-05-25**|**FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference**|Chenqi Lin et.al.|[2405.16241](http://arxiv.org/abs/2405.16241)|
 |**2024-05-24**|**Hacc-Man: An Arcade Game for Jailbreaking LLMs**|Matheus Valentim et.al.|[2405.15902](http://arxiv.org/abs/2405.15902)|
@@ -38,6 +40,7 @@ Updated on 2024.06.18
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-17**|**Fine-Tuning or Fine-Failing? Debunking Performance Myths in Large Language Models**|Scott Barnett et.al.|[2406.11201](http://arxiv.org/abs/2406.11201)|
 |**2024-06-14**|**HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**|Heejun Lee et.al.|[2406.09827](http://arxiv.org/abs/2406.09827)|
 |**2024-06-13**|**Decoding the Diversity: A Review of the Indic AI Research Landscape**|Sankalp KJ et.al.|[2406.09559](http://arxiv.org/abs/2406.09559)|
 |**2024-06-12**|**CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery**|Xiaoshuai Song et.al.|[2406.08587](http://arxiv.org/abs/2406.08587)|
