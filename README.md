@@ -1,4 +1,4 @@
-Updated on 2024.06.17
+Updated on 2024.06.18
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -71,7 +71,7 @@ Updated on 2024.06.17
 |**2024-05-11**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|
 |**2024-03-04**|**Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications?**|Yotam Intrator et.al.|[2403.04792](http://arxiv.org/abs/2403.04792)|
 |**2024-04-15**|**Do Large Language Model Understand Multi-Intent Spoken Language ?**|Shangjian Yin et.al.|[2403.04481](http://arxiv.org/abs/2403.04481)|
-|**2024-03-15**|**SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis**|Hengxing Cai et.al.|[2403.01976](http://arxiv.org/abs/2403.01976)|
+|**2024-06-15**|**SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis**|Hengxing Cai et.al.|[2403.01976](http://arxiv.org/abs/2403.01976)|
 |**2024-03-04**|**Differentially Private Synthetic Data via Foundation Model APIs 2: Text**|Chulin Xie et.al.|[2403.01749](http://arxiv.org/abs/2403.01749)|
 |**2024-03-16**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|
@@ -92,7 +92,7 @@ Updated on 2024.06.17
 |**2024-02-06**|**Similarity-based Neighbor Selection for Graph LLMs**|Rui Li et.al.|[2402.03720](http://arxiv.org/abs/2402.03720)|
 |**2024-02-26**|**Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling**|Chao Zhang et.al.|[2402.01927](http://arxiv.org/abs/2402.01927)|
 |**2024-05-29**|**Building Guardrails for Large Language Models**|Yi Dong et.al.|[2402.01822](http://arxiv.org/abs/2402.01822)|
-|**2024-04-04**|**Compensatory Biases Under Cognitive Load: Reducing Selection Bias in Large Language Models**|J. E. Eicher et.al.|[2402.01740](http://arxiv.org/abs/2402.01740)|
+|**2024-06-15**|**Reducing Selection Bias in Large Language Models**|J. E. Eicher et.al.|[2402.01740](http://arxiv.org/abs/2402.01740)|
 |**2024-02-20**|**APT-Pipe: A Prompt-Tuning Tool for Social Data Annotation using ChatGPT**|Yiming Zhu et.al.|[2402.01697](http://arxiv.org/abs/2402.01697)|
 |**2023-12-28**|**DrugAssist: A Large Language Model for Molecule Optimization**|Geyan Ye et.al.|[2401.10334](http://arxiv.org/abs/2401.10334)|
 |**2024-06-06**|**DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**|Yinmin Zhong et.al.|[2401.09670](http://arxiv.org/abs/2401.09670)|
