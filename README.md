@@ -3,6 +3,7 @@ Updated on 2024.06.19
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-18**|**Can We Trust Large Language Models Generated Code? A Framework for In-Context Learning, Security Patterns, and Code Evaluations Across Diverse LLMs**|Ahmad Mohsin et.al.|[2406.12513](http://arxiv.org/abs/2406.12513)|
 |**2024-06-17**|**Self and Cross-Model Distillation for LLMs: Effective Methods for Refusal Pattern Alignment**|Jie Li et.al.|[2406.11285](http://arxiv.org/abs/2406.11285)|
 |**2024-06-16**|**garak: A Framework for Security Probing Large Language Models**|Leon Derczynski et.al.|[2406.11036](http://arxiv.org/abs/2406.11036)|
 |**2024-06-06**|**AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens**|Lin Lu et.al.|[2406.03805](http://arxiv.org/abs/2406.03805)|
