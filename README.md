@@ -1,4 +1,4 @@
-Updated on 2024.06.20
+Updated on 2024.06.21
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -24,7 +24,7 @@ Updated on 2024.06.20
 |**2024-06-10**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|
 |**2024-05-28**|**Pandora's White-Box: Precise Training Data Detection and Extraction in Large Language Models**|Jeffrey G. Wang et.al.|[2402.17012](http://arxiv.org/abs/2402.17012)|
 |**2024-06-04**|**ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings**|Hao Wang et.al.|[2402.16006](http://arxiv.org/abs/2402.16006)|
-|**2024-02-20**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|
+|**2024-06-18**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
 |**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
 |**2024-06-09**|**Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
@@ -48,7 +48,7 @@ Updated on 2024.06.20
 |**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712](http://arxiv.org/abs/2406.03712)|
 |**2024-06-13**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339](http://arxiv.org/abs/2406.03339)|
 |**2024-06-05**|**Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models**|Sheng-Lun Wei et.al.|[2406.03009](http://arxiv.org/abs/2406.03009)|
-|**2024-05-27**|**Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark**|Hongliu Cao et.al.|[2406.01607](http://arxiv.org/abs/2406.01607)|
+|**2024-06-19**|**Recent advances in text embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark**|Hongliu Cao et.al.|[2406.01607](http://arxiv.org/abs/2406.01607)|
 |**2024-06-05**|**Luna: An Evaluation Foundation Model to Catch Language Model Hallucinations with High Accuracy and Low Cost**|Masha Belyi et.al.|[2406.00975](http://arxiv.org/abs/2406.00975)|
 |**2024-05-30**|**Parrot: Efficient Serving of LLM-based Applications with Semantic Variable**|Chaofan Lin et.al.|[2405.19888](http://arxiv.org/abs/2405.19888)|
 |**2024-05-31**|**LLMs achieve adult human performance on higher-order theory of mind tasks**|Winnie Street et.al.|[2405.18870](http://arxiv.org/abs/2405.18870)|
