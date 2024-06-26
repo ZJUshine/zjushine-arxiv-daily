@@ -42,6 +42,7 @@ Updated on 2024.06.26
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-25**|**Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels**|Nicholas Pangakis et.al.|[2406.17633](http://arxiv.org/abs/2406.17633)|
 |**2024-06-23**|**Serial Position Effects of Large Language Models**|Xiaobo Guo et.al.|[2406.15981](http://arxiv.org/abs/2406.15981)|
 |**2024-06-24**|**GIEBench: Towards Holistic Evaluation of Group Identity-based Empathy for Large Language Models**|Leyan Wang et.al.|[2406.14903](http://arxiv.org/abs/2406.14903)|
 |**2024-06-20**|**The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in Prompts**|Zhili Shen et.al.|[2406.14318](http://arxiv.org/abs/2406.14318)|
