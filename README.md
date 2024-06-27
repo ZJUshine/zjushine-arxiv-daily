@@ -3,6 +3,7 @@ Updated on 2024.06.27
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-26**|**Natural Language but Omitted? On the Ineffectiveness of Large Language Models' privacy policy from End-users' Perspective**|Shuning Zhang et.al.|[2406.18100](http://arxiv.org/abs/2406.18100)|
 |**2024-06-24**|**Noisy Neighbors: Efficient membership inference attacks against LLMs**|Filippo Galli et.al.|[2406.16565](http://arxiv.org/abs/2406.16565)|
 |**2024-06-18**|**Can We Trust Large Language Models Generated Code? A Framework for In-Context Learning, Security Patterns, and Code Evaluations Across Diverse LLMs**|Ahmad Mohsin et.al.|[2406.12513](http://arxiv.org/abs/2406.12513)|
 |**2024-06-17**|**Self and Cross-Model Distillation for LLMs: Effective Methods for Refusal Pattern Alignment**|Jie Li et.al.|[2406.11285](http://arxiv.org/abs/2406.11285)|
