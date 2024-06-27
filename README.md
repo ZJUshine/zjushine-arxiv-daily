@@ -1,4 +1,4 @@
-Updated on 2024.06.26
+Updated on 2024.06.27
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -121,7 +121,7 @@ Updated on 2024.06.26
 |**2024-04-28**|**The Ups and Downs of Large Language Model Inference with Vocabulary Trimming by Language Heuristics**|Nikolay Bogoychev et.al.|[2311.09709](http://arxiv.org/abs/2311.09709)|
 |**2023-11-15**|**How Well Do Large Language Models Truly Ground?**|Hyunji Lee et.al.|[2311.09069](http://arxiv.org/abs/2311.09069)|
 |**2024-04-01**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
-|**2024-06-04**|**Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**|Ziyin Zhang et.al.|[2311.07989](http://arxiv.org/abs/2311.07989)|
+|**2024-06-26**|**Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**|Ziyin Zhang et.al.|[2311.07989](http://arxiv.org/abs/2311.07989)|
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
 |**2024-06-10**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
 |**2024-04-04**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
