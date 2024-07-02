@@ -1,4 +1,4 @@
-Updated on 2024.07.01
+Updated on 2024.07.02
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -49,7 +49,7 @@ Updated on 2024.07.01
 |**2024-06-24**|**GIEBench: Towards Holistic Evaluation of Group Identity-based Empathy for Large Language Models**|Leyan Wang et.al.|[2406.14903](http://arxiv.org/abs/2406.14903)|
 |**2024-06-20**|**The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in Prompts**|Zhili Shen et.al.|[2406.14318](http://arxiv.org/abs/2406.14318)|
 |**2024-06-20**|**ReaLHF: Optimized RLHF Training for Large Language Models through Parameter Reallocation**|Zhiyu Mei et.al.|[2406.14088](http://arxiv.org/abs/2406.14088)|
-|**2024-06-17**|**Fine-Tuning or Fine-Failing? Debunking Performance Myths in Large Language Models**|Scott Barnett et.al.|[2406.11201](http://arxiv.org/abs/2406.11201)|
+|**2024-06-30**|**Fine-Tuning or Fine-Failing? Debunking Performance Myths in Large Language Models**|Scott Barnett et.al.|[2406.11201](http://arxiv.org/abs/2406.11201)|
 |**2024-06-14**|**HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**|Heejun Lee et.al.|[2406.09827](http://arxiv.org/abs/2406.09827)|
 |**2024-06-13**|**Decoding the Diversity: A Review of the Indic AI Research Landscape**|Sankalp KJ et.al.|[2406.09559](http://arxiv.org/abs/2406.09559)|
 |**2024-06-12**|**CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery**|Xiaoshuai Song et.al.|[2406.08587](http://arxiv.org/abs/2406.08587)|
@@ -122,7 +122,7 @@ Updated on 2024.07.01
 |**2023-11-28**|**Large Language Models Suffer From Their Own Output: An Analysis of the Self-Consuming Training Loop**|Martin Briesch et.al.|[2311.16822](http://arxiv.org/abs/2311.16822)|
 |**2023-11-19**|**A Security Risk Taxonomy for Large Language Models**|Erik Derner et.al.|[2311.11415](http://arxiv.org/abs/2311.11415)|
 |**2024-04-28**|**The Ups and Downs of Large Language Model Inference with Vocabulary Trimming by Language Heuristics**|Nikolay Bogoychev et.al.|[2311.09709](http://arxiv.org/abs/2311.09709)|
-|**2023-11-15**|**How Well Do Large Language Models Truly Ground?**|Hyunji Lee et.al.|[2311.09069](http://arxiv.org/abs/2311.09069)|
+|**2024-06-29**|**How Well Do Large Language Models Truly Ground?**|Hyunji Lee et.al.|[2311.09069](http://arxiv.org/abs/2311.09069)|
 |**2024-04-01**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|
 |**2024-06-26**|**Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**|Ziyin Zhang et.al.|[2311.07989](http://arxiv.org/abs/2311.07989)|
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
