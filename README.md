@@ -1,4 +1,4 @@
-Updated on 2024.07.02
+Updated on 2024.07.03
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -74,7 +74,7 @@ Updated on 2024.07.02
 |**2024-04-28**|**Generating Situated Reflection Triggers about Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning**|Atharva Naik et.al.|[2404.18262](http://arxiv.org/abs/2404.18262)|
 |**2024-04-26**|**Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**|Quan Zhang et.al.|[2404.17196](http://arxiv.org/abs/2404.17196)|
 |**2024-05-29**|**A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry**|Yining Huang et.al.|[2404.15777](http://arxiv.org/abs/2404.15777)|
-|**2024-06-24**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|
+|**2024-07-02**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|
 |**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921](http://arxiv.org/abs/2404.06921)|
 |**2024-04-18**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
 |**2024-04-21**|**Towards Responsible and Reliable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|
@@ -94,7 +94,7 @@ Updated on 2024.07.02
 |**2024-06-05**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-05-23**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|
 |**2024-02-21**|**An Evaluation of Large Language Models in Bioinformatics Research**|Hengchuang Yin et.al.|[2402.13714](http://arxiv.org/abs/2402.13714)|
-|**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|
+|**2024-07-02**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|
 |**2024-02-18**|**Ain't Misbehavin' -- Using LLMs to Generate Expressive Robot Behavior in Conversations with the Tabletop Robot Haru**|Zining Wang et.al.|[2402.11571](http://arxiv.org/abs/2402.11571)|
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|
 |**2024-02-15**|**Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination**|Yijiang River Dong et.al.|[2402.10052](http://arxiv.org/abs/2402.10052)|
@@ -141,7 +141,7 @@ Updated on 2024.07.02
 |**2023-09-18**|**A Study on the Implementation of Generative AI Services Using an Enterprise Data-Based LLM Application Architecture**|Cheonsu Jeong et.al.|[2309.01105](http://arxiv.org/abs/2309.01105)|
 |**2023-08-17**|**ChatGPT-HealthPrompt. Harnessing the Power of XAI in Prompt-Based Healthcare Decision Support using ChatGPT**|Fatemeh Nazary et.al.|[2308.09731](http://arxiv.org/abs/2308.09731)|
 |**2023-10-03**|**AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**|Qingyun Wu et.al.|[2308.08155](http://arxiv.org/abs/2308.08155)|
-|**2023-08-26**|**A Preliminary Evaluation of LLM-Based Fault Localization**|Sungmin Kang et.al.|[2308.05487](http://arxiv.org/abs/2308.05487)|
+|**2024-07-02**|**A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization**|Sungmin Kang et.al.|[2308.05487](http://arxiv.org/abs/2308.05487)|
 |**2023-08-01**|**Retrieval Augmented Generation and Representative Vector Summarization for large unstructured textual data in Medical Education**|S. S. Manathunga et.al.|[2308.00479](http://arxiv.org/abs/2308.00479)|
 |**2024-04-03**|**Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**|Lean Wang et.al.|[2307.15992](http://arxiv.org/abs/2307.15992)|
 |**2023-07-18**|**Development of the ChatGPT, Generative Artificial Intelligence and Natural Large Language Models for Accountable Reporting and Use (CANGARU) Guidelines**|Giovanni E. Cacciamani et.al.|[2307.08974](http://arxiv.org/abs/2307.08974)|
