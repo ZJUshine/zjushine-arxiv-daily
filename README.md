@@ -44,6 +44,7 @@ Updated on 2024.07.09
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-07**|**ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models**|Xiyuan Zhou et.al.|[2407.05365](http://arxiv.org/abs/2407.05365)|
 |**2024-06-29**|**Teola: Towards End-to-End Optimization of LLM-based Applications**|Xin Tan et.al.|[2407.00326](http://arxiv.org/abs/2407.00326)|
 |**2024-06-25**|**Knowledge Distillation in Automated Annotation: Supervised Text Classification with LLM-Generated Training Labels**|Nicholas Pangakis et.al.|[2406.17633](http://arxiv.org/abs/2406.17633)|
 |**2024-06-23**|**Serial Position Effects of Large Language Models**|Xiaobo Guo et.al.|[2406.15981](http://arxiv.org/abs/2406.15981)|
