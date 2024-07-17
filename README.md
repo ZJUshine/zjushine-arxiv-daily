@@ -44,6 +44,7 @@ Updated on 2024.07.17
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-03**|**The Life Cycle of Large Language Models: A Review of Biases in Education**|Jinsook Lee et.al.|[2407.11203](http://arxiv.org/abs/2407.11203)|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793](http://arxiv.org/abs/2407.10793)|
 |**2024-07-16**|**Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning**|Yulong Wang et.al.|[2407.10718](http://arxiv.org/abs/2407.10718)|
 |**2024-07-10**|**FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making**|Yangyang Yu et.al.|[2407.06567](http://arxiv.org/abs/2407.06567)|
