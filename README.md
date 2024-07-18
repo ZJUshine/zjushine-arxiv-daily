@@ -1,4 +1,4 @@
-Updated on 2024.07.17
+Updated on 2024.07.18
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -142,7 +142,7 @@ Updated on 2024.07.17
 |**2024-06-10**|**"I'd Like to Have an Argument, Please": Argumentative Reasoning in Large Language Models**|Adrian de Wynter et.al.|[2309.16938](http://arxiv.org/abs/2309.16938)|
 |**2024-03-03**|**People's Perceptions Toward Bias and Related Concepts in Large Language Models: A Systematic Review**|Lu Wang et.al.|[2309.14504](http://arxiv.org/abs/2309.14504)|
 |**2023-09-24**|**Machine-assisted mixed methods: augmenting humanities and social sciences with artificial intelligence**|Andres Karjus et.al.|[2309.14379](http://arxiv.org/abs/2309.14379)|
-|**2024-05-16**|**AnglE-optimized Text Embeddings**|Xianming Li et.al.|[2309.12871](http://arxiv.org/abs/2309.12871)|
+|**2024-07-17**|**AnglE-optimized Text Embeddings**|Xianming Li et.al.|[2309.12871](http://arxiv.org/abs/2309.12871)|
 |**2024-05-28**|**Redefining Qualitative Analysis in the AI Era: Utilizing ChatGPT for Efficient Thematic Analysis**|He Zhang et.al.|[2309.10771](http://arxiv.org/abs/2309.10771)|
 |**2023-09-06**|**Hide and Seek (HaS): A Lightweight Framework for Prompt Privacy Protection**|Yu Chen et.al.|[2309.03057](http://arxiv.org/abs/2309.03057)|
 |**2023-09-18**|**A Study on the Implementation of Generative AI Services Using an Enterprise Data-Based LLM Application Architecture**|Cheonsu Jeong et.al.|[2309.01105](http://arxiv.org/abs/2309.01105)|
