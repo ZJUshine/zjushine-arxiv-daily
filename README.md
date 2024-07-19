@@ -44,6 +44,7 @@ Updated on 2024.07.19
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-20**|**CEBench: A Benchmarking Toolkit for the Cost-Effectiveness of LLM Pipelines**|Wenbo Sun et.al.|[2407.12797](http://arxiv.org/abs/2407.12797)|
 |**2024-06-03**|**The Life Cycle of Large Language Models: A Review of Biases in Education**|Jinsook Lee et.al.|[2407.11203](http://arxiv.org/abs/2407.11203)|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793](http://arxiv.org/abs/2407.10793)|
 |**2024-07-16**|**Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning**|Yulong Wang et.al.|[2407.10718](http://arxiv.org/abs/2407.10718)|
