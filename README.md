@@ -44,6 +44,8 @@ Updated on 2024.07.23
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|
+|**2024-07-21**|**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**|Yi Liu et.al.|[2407.15050](http://arxiv.org/abs/2407.15050)|
 |**2024-06-20**|**CEBench: A Benchmarking Toolkit for the Cost-Effectiveness of LLM Pipelines**|Wenbo Sun et.al.|[2407.12797](http://arxiv.org/abs/2407.12797)|
 |**2024-06-03**|**The Life Cycle of Large Language Models: A Review of Biases in Education**|Jinsook Lee et.al.|[2407.11203](http://arxiv.org/abs/2407.11203)|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793](http://arxiv.org/abs/2407.10793)|
