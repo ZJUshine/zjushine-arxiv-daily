@@ -44,6 +44,7 @@ Updated on 2024.07.24
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|
 |**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|
 |**2024-07-21**|**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**|Yi Liu et.al.|[2407.15050](http://arxiv.org/abs/2407.15050)|
 |**2024-06-20**|**CEBench: A Benchmarking Toolkit for the Cost-Effectiveness of LLM Pipelines**|Wenbo Sun et.al.|[2407.12797](http://arxiv.org/abs/2407.12797)|
