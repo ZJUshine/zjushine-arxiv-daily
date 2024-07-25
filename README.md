@@ -1,4 +1,4 @@
-Updated on 2024.07.24
+Updated on 2024.07.25
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -96,7 +96,7 @@ Updated on 2024.07.24
 |**2024-03-04**|**Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications?**|Yotam Intrator et.al.|[2403.04792](http://arxiv.org/abs/2403.04792)|
 |**2024-04-15**|**Do Large Language Model Understand Multi-Intent Spoken Language ?**|Shangjian Yin et.al.|[2403.04481](http://arxiv.org/abs/2403.04481)|
 |**2024-06-18**|**SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis**|Hengxing Cai et.al.|[2403.01976](http://arxiv.org/abs/2403.01976)|
-|**2024-03-04**|**Differentially Private Synthetic Data via Foundation Model APIs 2: Text**|Chulin Xie et.al.|[2403.01749](http://arxiv.org/abs/2403.01749)|
+|**2024-07-23**|**Differentially Private Synthetic Data via Foundation Model APIs 2: Text**|Chulin Xie et.al.|[2403.01749](http://arxiv.org/abs/2403.01749)|
 |**2024-03-16**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|
 |**2024-02-28**|**TroubleLLM: Align to Red Team Expert**|Zhuoer Xu et.al.|[2403.00829](http://arxiv.org/abs/2403.00829)|
