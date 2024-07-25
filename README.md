@@ -44,6 +44,7 @@ Updated on 2024.07.25
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-06-18**|**Free to play: UN Trade and Development's experience with developing its own open-source Retrieval Augmented Generation Large Language Model application**|Daniel Hopp et.al.|[2407.16896](http://arxiv.org/abs/2407.16896)|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|
 |**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|
 |**2024-07-21**|**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**|Yi Liu et.al.|[2407.15050](http://arxiv.org/abs/2407.15050)|
