@@ -44,6 +44,7 @@ Updated on 2024.07.26
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-07-25**|**The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation**|Eric Yang et.al.|[2407.18044](http://arxiv.org/abs/2407.18044)|
 |**2024-06-18**|**Free to play: UN Trade and Development's experience with developing its own open-source Retrieval Augmented Generation Large Language Model application**|Daniel Hopp et.al.|[2407.16896](http://arxiv.org/abs/2407.16896)|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|
 |**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|
