@@ -1,4 +1,4 @@
-Updated on 2024.08.01
+Updated on 2024.08.02
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -95,7 +95,7 @@ Updated on 2024.08.01
 |**2024-06-27**|**Symbolic Prompt Program Search: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization**|Tobias Schnabel et.al.|[2404.02319](http://arxiv.org/abs/2404.02319)|
 |**2024-07-28**|**Large Language Models in Biomedical and Health Informatics: A Review with Bibliometric Analysis**|Huizi Yu et.al.|[2403.16303](http://arxiv.org/abs/2403.16303)|
 |**2024-04-05**|**Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning**|Siyu Zha et.al.|[2403.16159](http://arxiv.org/abs/2403.16159)|
-|**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|
+|**2024-08-01**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|
 |**2024-05-11**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|
 |**2024-03-04**|**Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications?**|Yotam Intrator et.al.|[2403.04792](http://arxiv.org/abs/2403.04792)|
 |**2024-04-15**|**Do Large Language Model Understand Multi-Intent Spoken Language ?**|Shangjian Yin et.al.|[2403.04481](http://arxiv.org/abs/2403.04481)|
