@@ -1,4 +1,4 @@
-Updated on 2024.08.04
+Updated on 2024.08.05
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -143,7 +143,7 @@ Updated on 2024.08.04
 |**2024-01-03**|**Evaluating LLMs on Document-Based QA: Exact Answer Selection and Numerical Extraction using Cogtale dataset**|Zafaryab Rasool et.al.|[2311.07878](http://arxiv.org/abs/2311.07878)|
 |**2024-06-10**|**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**|Yichi Zhang et.al.|[2311.06503](http://arxiv.org/abs/2311.06503)|
 |**2024-04-04**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|
-|**2024-07-26**|**RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models**|Zefan Wang et.al.|[2310.16340](http://arxiv.org/abs/2310.16340)|
+|**2024-08-02**|**RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models**|Zefan Wang et.al.|[2310.16340](http://arxiv.org/abs/2310.16340)|
 |**2023-12-18**|**PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models**|Hongwei Yao et.al.|[2310.12439](http://arxiv.org/abs/2310.12439)|
 |**2023-10-16**|**NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails**|Traian Rebedea et.al.|[2310.10501](http://arxiv.org/abs/2310.10501)|
 |**2023-09-28**|**Chatmap : Large Language Model Interaction with Cartographic Data**|Eren Unlu et.al.|[2310.01429](http://arxiv.org/abs/2310.01429)|
