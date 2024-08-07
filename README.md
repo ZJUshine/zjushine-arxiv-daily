@@ -44,6 +44,7 @@ Updated on 2024.08.07
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-06**|**A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search**|Yiping Sun et.al.|[2408.02937](http://arxiv.org/abs/2408.02937)|
 |**2024-07-25**|**The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation**|Eric Yang et.al.|[2407.18044](http://arxiv.org/abs/2407.18044)|
 |**2024-06-18**|**Free to play: UN Trade and Development's experience with developing its own open-source Retrieval Augmented Generation Large Language Model application**|Daniel Hopp et.al.|[2407.16896](http://arxiv.org/abs/2407.16896)|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|
