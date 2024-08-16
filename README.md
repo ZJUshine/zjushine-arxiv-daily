@@ -1,4 +1,4 @@
-Updated on 2024.08.15
+Updated on 2024.08.16
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -89,7 +89,7 @@ Updated on 2024.08.15
 |**2024-04-26**|**Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**|Quan Zhang et.al.|[2404.17196](http://arxiv.org/abs/2404.17196)|
 |**2024-07-29**|**Prompt Leakage effect and defense strategies for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251](http://arxiv.org/abs/2404.16251)|
 |**2024-05-29**|**A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry**|Yining Huang et.al.|[2404.15777](http://arxiv.org/abs/2404.15777)|
-|**2024-07-02**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|
+|**2024-08-15**|**A Survey on Integration of Large Language Models with Intelligent Robots**|Yeseung Kim et.al.|[2404.09228](http://arxiv.org/abs/2404.09228)|
 |**2024-07-11**|**LLMs in Biomedicine: A study on clinical Named Entity Recognition**|Masoud Monajatipoor et.al.|[2404.07376](http://arxiv.org/abs/2404.07376)|
 |**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921](http://arxiv.org/abs/2404.06921)|
 |**2024-04-18**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
