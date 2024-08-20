@@ -44,6 +44,7 @@ Updated on 2024.08.20
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-12**|**Bayesian inference to improve quality of Retrieval Augmented Generation**|Dattaraj Rao et.al.|[2408.08901](http://arxiv.org/abs/2408.08901)|
 |**2024-08-14**|**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**|Seungjae Moon et.al.|[2408.07326](http://arxiv.org/abs/2408.07326)|
 |**2024-08-06**|**A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search**|Yiping Sun et.al.|[2408.02937](http://arxiv.org/abs/2408.02937)|
 |**2024-07-25**|**The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation**|Eric Yang et.al.|[2407.18044](http://arxiv.org/abs/2407.18044)|
