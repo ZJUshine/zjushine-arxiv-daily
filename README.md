@@ -3,6 +3,7 @@ Updated on 2024.08.22
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749](http://arxiv.org/abs/2408.11749)|
 |**2024-07-11**|**Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection**|Yuqi Zhou et.al.|[2406.19845](http://arxiv.org/abs/2406.19845)|
 |**2024-06-26**|**Natural Language but Omitted? On the Ineffectiveness of Large Language Models' privacy policy from End-users' Perspective**|Shuning Zhang et.al.|[2406.18100](http://arxiv.org/abs/2406.18100)|
 |**2024-06-24**|**Noisy Neighbors: Efficient membership inference attacks against LLMs**|Filippo Galli et.al.|[2406.16565](http://arxiv.org/abs/2406.16565)|
@@ -130,6 +131,7 @@ Updated on 2024.08.22
 |**2024-06-06**|**DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving**|Yinmin Zhong et.al.|[2401.09670](http://arxiv.org/abs/2401.09670)|
 |**2024-01-15**|**Graph database while computationally efficient filters out quickly the ESG integrated equities in investment management**|Partha Sen et.al.|[2401.07483](http://arxiv.org/abs/2401.07483)|
 |**2024-05-28**|**INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning**|Yutao Zhu et.al.|[2401.06532](http://arxiv.org/abs/2401.06532)|
+|**2024-08-21**|**Large Language Models in Mental Health Care: a Scoping Review**|Yining Hua et.al.|[2401.02984](http://arxiv.org/abs/2401.02984)|
 |**2024-01-04**|**Large Language Models for Social Networks: Applications, Challenges, and Solutions**|Jingying Zeng et.al.|[2401.02575](http://arxiv.org/abs/2401.02575)|
 |**2024-05-17**|**RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models**|Cheng Niu et.al.|[2401.00396](http://arxiv.org/abs/2401.00396)|
 |**2024-03-30**|**ComplexityNet: Increasing LLM Inference Efficiency by Learning Task Complexity**|Henry Bae et.al.|[2312.11511](http://arxiv.org/abs/2312.11511)|
