@@ -45,6 +45,7 @@ Updated on 2024.08.23
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-22**|**Large Language Models Are Self-Taught Reasoners: Enhancing LLM Applications via Tailored Problem-Solving Demonstrations**|Kai Tzu-iunn Ong et.al.|[2408.12315](http://arxiv.org/abs/2408.12315)|
 |**2024-08-20**|**MEGen: Generative Backdoor in Large Language Models via Model Editing**|Jiyang Qiu et.al.|[2408.10722](http://arxiv.org/abs/2408.10722)|
 |**2024-08-12**|**Bayesian inference to improve quality of Retrieval Augmented Generation**|Dattaraj Rao et.al.|[2408.08901](http://arxiv.org/abs/2408.08901)|
 |**2024-08-14**|**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**|Seungjae Moon et.al.|[2408.07326](http://arxiv.org/abs/2408.07326)|
