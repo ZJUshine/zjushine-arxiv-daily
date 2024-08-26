@@ -3,6 +3,7 @@ Updated on 2024.08.26
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-23**|**LLM-PBE: Assessing Data Privacy in Large Language Models**|Qinbin Li et.al.|[2408.12787](http://arxiv.org/abs/2408.12787)|
 |**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749](http://arxiv.org/abs/2408.11749)|
 |**2024-07-11**|**Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection**|Yuqi Zhou et.al.|[2406.19845](http://arxiv.org/abs/2406.19845)|
 |**2024-06-26**|**Natural Language but Omitted? On the Ineffectiveness of Large Language Models' privacy policy from End-users' Perspective**|Shuning Zhang et.al.|[2406.18100](http://arxiv.org/abs/2406.18100)|
@@ -45,6 +46,7 @@ Updated on 2024.08.26
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-08-23**|**Investigating LLM Applications in E-Commerce**|Chester Palen-Michel et.al.|[2408.12779](http://arxiv.org/abs/2408.12779)|
 |**2024-08-22**|**Large Language Models Are Self-Taught Reasoners: Enhancing LLM Applications via Tailored Problem-Solving Demonstrations**|Kai Tzu-iunn Ong et.al.|[2408.12315](http://arxiv.org/abs/2408.12315)|
 |**2024-08-20**|**MEGen: Generative Backdoor in Large Language Models via Model Editing**|Jiyang Qiu et.al.|[2408.10722](http://arxiv.org/abs/2408.10722)|
 |**2024-08-12**|**Bayesian inference to improve quality of Retrieval Augmented Generation**|Dattaraj Rao et.al.|[2408.08901](http://arxiv.org/abs/2408.08901)|
