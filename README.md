@@ -101,7 +101,7 @@ Updated on 2024.09.04
 |**2024-07-11**|**LLMs in Biomedicine: A study on clinical Named Entity Recognition**|Masoud Monajatipoor et.al.|[2404.07376](http://arxiv.org/abs/2404.07376)|
 |**2024-04-10**|**GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications**|Shishir G. Patil et.al.|[2404.06921](http://arxiv.org/abs/2404.06921)|
 |**2024-04-18**|**Adapting LLMs for Efficient Context Processing through Soft Prompt Compression**|Cangqing Wang et.al.|[2404.04997](http://arxiv.org/abs/2404.04997)|
-|**2024-04-21**|**Towards Responsible and Reliable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|
+|**2024-09-03**|**Towards Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|
 |**2024-06-27**|**Symbolic Prompt Program Search: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization**|Tobias Schnabel et.al.|[2404.02319](http://arxiv.org/abs/2404.02319)|
 |**2024-07-28**|**Large Language Models in Biomedical and Health Informatics: A Review with Bibliometric Analysis**|Huizi Yu et.al.|[2403.16303](http://arxiv.org/abs/2403.16303)|
 |**2024-04-05**|**Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning**|Siyu Zha et.al.|[2403.16159](http://arxiv.org/abs/2403.16159)|
