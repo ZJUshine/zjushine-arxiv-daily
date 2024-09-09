@@ -1,12 +1,12 @@
-Updated on 2024.09.08
+Updated on 2024.09.09
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-09-05**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274](http://arxiv.org/abs/2409.03274)|
+|**2024-09-06**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274](http://arxiv.org/abs/2409.03274)|
 |**2024-08-30**|**Safety Layers of Aligned Large Language Models: The Key to LLM Security**|Shen Li et.al.|[2408.17003](http://arxiv.org/abs/2408.17003)|
 |**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|
-|**2024-08-23**|**LLM-PBE: Assessing Data Privacy in Large Language Models**|Qinbin Li et.al.|[2408.12787](http://arxiv.org/abs/2408.12787)|
+|**2024-09-06**|**LLM-PBE: Assessing Data Privacy in Large Language Models**|Qinbin Li et.al.|[2408.12787](http://arxiv.org/abs/2408.12787)|
 |**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749](http://arxiv.org/abs/2408.11749)|
 |**2024-07-11**|**Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection**|Yuqi Zhou et.al.|[2406.19845](http://arxiv.org/abs/2406.19845)|
 |**2024-06-26**|**Natural Language but Omitted? On the Ineffectiveness of Large Language Models' privacy policy from End-users' Perspective**|Shuning Zhang et.al.|[2406.18100](http://arxiv.org/abs/2406.18100)|
@@ -185,7 +185,7 @@ Updated on 2024.09.08
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-08-16**|**A Survey on Benchmarks of Multimodal Large Language Models**|Jian Li et.al.|[2408.08632](http://arxiv.org/abs/2408.08632)|
+|**2024-09-06**|**A Survey on Benchmarks of Multimodal Large Language Models**|Jian Li et.al.|[2408.08632](http://arxiv.org/abs/2408.08632)|
 |**2024-08-09**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|
 |**2024-06-05**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
 |**2024-02-16**|**Understanding Survey Paper Taxonomy about Large Language Models via Graph Representation Learning**|Jun Zhuang et.al.|[2402.10409](http://arxiv.org/abs/2402.10409)|
