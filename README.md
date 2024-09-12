@@ -49,6 +49,7 @@ Updated on 2024.09.12
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-11**|**Understanding Knowledge Drift in LLMs through Misinformation**|Alina Fastowski et.al.|[2409.07085](http://arxiv.org/abs/2409.07085)|
 |**2024-08-23**|**Investigating LLM Applications in E-Commerce**|Chester Palen-Michel et.al.|[2408.12779](http://arxiv.org/abs/2408.12779)|
 |**2024-08-22**|**Large Language Models Are Self-Taught Reasoners: Enhancing LLM Applications via Tailored Problem-Solving Demonstrations**|Kai Tzu-iunn Ong et.al.|[2408.12315](http://arxiv.org/abs/2408.12315)|
 |**2024-08-20**|**MEGen: Generative Backdoor in Large Language Models via Model Editing**|Jiyang Qiu et.al.|[2408.10722](http://arxiv.org/abs/2408.10722)|
