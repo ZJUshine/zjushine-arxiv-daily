@@ -50,6 +50,7 @@ Updated on 2024.09.19
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|
 |**2024-09-16**|**MindGuard: Towards Accessible and Sitgma-free Mental Health First Aid via Edge LLM**|Sijie Ji et.al.|[2409.10064](http://arxiv.org/abs/2409.10064)|
 |**2024-09-14**|**Language Models "Grok" to Copy**|Ang Lv et.al.|[2409.09281](http://arxiv.org/abs/2409.09281)|
 |**2024-09-11**|**Understanding Knowledge Drift in LLMs through Misinformation**|Alina Fastowski et.al.|[2409.07085](http://arxiv.org/abs/2409.07085)|
