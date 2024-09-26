@@ -1,8 +1,10 @@
-Updated on 2024.09.25
+Updated on 2024.09.26
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-21**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|
+|**2024-09-18**|**Extracting Memorized Training Data via Decomposition**|Ellen Su et.al.|[2409.12367](http://arxiv.org/abs/2409.12367)|
 |**2024-09-12**|**Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks**|Benji Peng et.al.|[2409.08087](http://arxiv.org/abs/2409.08087)|
 |**2024-09-06**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274](http://arxiv.org/abs/2409.03274)|
 |**2024-08-30**|**Safety Layers of Aligned Large Language Models: The Key to LLM Security**|Shen Li et.al.|[2408.17003](http://arxiv.org/abs/2408.17003)|
@@ -50,6 +52,10 @@ Updated on 2024.09.25
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-23**|**CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|
+|**2024-09-23**|**Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely**|Siyun Zhao et.al.|[2409.14924](http://arxiv.org/abs/2409.14924)|
+|**2024-09-16**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|
+|**2024-09-20**|**Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2409.13331](http://arxiv.org/abs/2409.13331)|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|
 |**2024-09-16**|**MindGuard: Towards Accessible and Sitgma-free Mental Health First Aid via Edge LLM**|Sijie Ji et.al.|[2409.10064](http://arxiv.org/abs/2409.10064)|
 |**2024-09-14**|**Language Models "Grok" to Copy**|Ang Lv et.al.|[2409.09281](http://arxiv.org/abs/2409.09281)|
