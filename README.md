@@ -1,8 +1,9 @@
-Updated on 2024.09.27
+Updated on 2024.09.28
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-26**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|
 |**2024-09-21**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|
 |**2024-09-18**|**Extracting Memorized Training Data via Decomposition**|Ellen Su et.al.|[2409.12367](http://arxiv.org/abs/2409.12367)|
 |**2024-09-12**|**Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks**|Benji Peng et.al.|[2409.08087](http://arxiv.org/abs/2409.08087)|
@@ -52,6 +53,7 @@ Updated on 2024.09.27
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009](http://arxiv.org/abs/2409.18009)|
 |**2024-09-23**|**CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|
 |**2024-09-23**|**Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely**|Siyun Zhao et.al.|[2409.14924](http://arxiv.org/abs/2409.14924)|
 |**2024-09-16**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|
