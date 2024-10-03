@@ -53,6 +53,8 @@ Updated on 2024.10.03
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-02**|**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**|Minsoo Kim et.al.|[2410.01518](http://arxiv.org/abs/2410.01518)|
+|**2024-10-01**|**Don't Stop Me Now: Embedding Based Scheduling for LLMs**|Rana Shahout et.al.|[2410.01035](http://arxiv.org/abs/2410.01035)|
 |**2024-10-01**|**What is the Role of Large Language Models in the Evolution of Astronomy Research?**|Morgan Fouesneau et.al.|[2409.20252](http://arxiv.org/abs/2409.20252)|
 |**2024-09-27**|**Outlining the Borders for LLM Applications in Patient Education: Developing an Expert-in-the-Loop LLM-Powered Chatbot for Prostate Cancer Patient Education**|Yuexing Hao et.al.|[2409.19100](http://arxiv.org/abs/2409.19100)|
 |**2024-09-26**|**Data-Prep-Kit: getting your data ready for LLM application development**|David Wood et.al.|[2409.18164](http://arxiv.org/abs/2409.18164)|
