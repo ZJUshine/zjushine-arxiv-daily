@@ -53,6 +53,7 @@ Updated on 2024.10.07
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|
 |**2024-10-02**|**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**|Minsoo Kim et.al.|[2410.01518](http://arxiv.org/abs/2410.01518)|
 |**2024-10-01**|**Don't Stop Me Now: Embedding Based Scheduling for LLMs**|Rana Shahout et.al.|[2410.01035](http://arxiv.org/abs/2410.01035)|
 |**2024-10-01**|**What is the Role of Large Language Models in the Evolution of Astronomy Research?**|Morgan Fouesneau et.al.|[2409.20252](http://arxiv.org/abs/2409.20252)|
