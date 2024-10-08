@@ -3,6 +3,7 @@ Updated on 2024.10.08
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-06**|**Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning**|Yanrui Du et.al.|[2410.04524](http://arxiv.org/abs/2410.04524)|
 |**2024-10-04**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|
 |**2024-10-01**|**Extracting Memorized Training Data via Decomposition**|Ellen Su et.al.|[2409.12367](http://arxiv.org/abs/2409.12367)|
@@ -53,6 +54,7 @@ Updated on 2024.10.08
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-07**|**MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs**|Lei Wang et.al.|[2410.04698](http://arxiv.org/abs/2410.04698)|
 |**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|
 |**2024-10-02**|**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**|Minsoo Kim et.al.|[2410.01518](http://arxiv.org/abs/2410.01518)|
 |**2024-10-01**|**Don't Stop Me Now: Embedding Based Scheduling for LLMs**|Rana Shahout et.al.|[2410.01035](http://arxiv.org/abs/2410.01035)|
