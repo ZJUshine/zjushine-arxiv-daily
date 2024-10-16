@@ -1,4 +1,4 @@
-Updated on 2024.10.15
+Updated on 2024.10.16
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -95,7 +95,7 @@ Updated on 2024.10.15
 |**2024-06-20**|**The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in Prompts**|Zhili Shen et.al.|[2406.14318](http://arxiv.org/abs/2406.14318)|
 |**2024-06-20**|**ReaLHF: Optimized RLHF Training for Large Language Models through Parameter Reallocation**|Zhiyu Mei et.al.|[2406.14088](http://arxiv.org/abs/2406.14088)|
 |**2024-06-30**|**Fine-Tuning or Fine-Failing? Debunking Performance Myths in Large Language Models**|Scott Barnett et.al.|[2406.11201](http://arxiv.org/abs/2406.11201)|
-|**2024-06-14**|**HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**|Heejun Lee et.al.|[2406.09827](http://arxiv.org/abs/2406.09827)|
+|**2024-10-15**|**A Training-free Sub-quadratic Cost Transformer Model Serving Framework With Hierarchically Pruned Attention**|Heejun Lee et.al.|[2406.09827](http://arxiv.org/abs/2406.09827)|
 |**2024-06-13**|**Decoding the Diversity: A Review of the Indic AI Research Landscape**|Sankalp KJ et.al.|[2406.09559](http://arxiv.org/abs/2406.09559)|
 |**2024-06-12**|**CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery**|Xiaoshuai Song et.al.|[2406.08587](http://arxiv.org/abs/2406.08587)|
 |**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712](http://arxiv.org/abs/2406.03712)|
