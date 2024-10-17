@@ -1,4 +1,4 @@
-Updated on 2024.10.16
+Updated on 2024.10.17
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -145,7 +145,7 @@ Updated on 2024.10.16
 |**2024-07-02**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|
 |**2024-02-18**|**Ain't Misbehavin' -- Using LLMs to Generate Expressive Robot Behavior in Conversations with the Tabletop Robot Haru**|Zining Wang et.al.|[2402.11571](http://arxiv.org/abs/2402.11571)|
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|
-|**2024-02-15**|**Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination**|Yijiang River Dong et.al.|[2402.10052](http://arxiv.org/abs/2402.10052)|
+|**2024-10-16**|**UNDIAL: Self-Distillation with Adjusted Logits for Robust Unlearning in Large Language Models**|Yijiang River Dong et.al.|[2402.10052](http://arxiv.org/abs/2402.10052)|
 |**2024-06-01**|**Anchor-based Large Language Models**|Jianhui Pang et.al.|[2402.07616](http://arxiv.org/abs/2402.07616)|
 |**2024-06-06**|**T-RAG: Lessons from the LLM Trenches**|Masoomali Fatehkia et.al.|[2402.07483](http://arxiv.org/abs/2402.07483)|
 |**2024-02-02**|**A Survey on Large Language Model Hallucination via a Creativity Perspective**|Xuhui Jiang et.al.|[2402.06647](http://arxiv.org/abs/2402.06647)|
