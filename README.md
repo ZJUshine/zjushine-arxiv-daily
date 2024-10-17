@@ -55,6 +55,7 @@ Updated on 2024.10.17
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-09-29**|**A Review on Edge Large Language Models: Design, Execution, and Applications**|Yue Zheng et.al.|[2410.11845](http://arxiv.org/abs/2410.11845)|
 |**2024-10-07**|**MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs**|Lei Wang et.al.|[2410.04698](http://arxiv.org/abs/2410.04698)|
 |**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|
 |**2024-10-02**|**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**|Minsoo Kim et.al.|[2410.01518](http://arxiv.org/abs/2410.01518)|
