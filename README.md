@@ -3,6 +3,7 @@ Updated on 2024.10.18
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-17**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|
 |**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|
 |**2024-10-06**|**Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning**|Yanrui Du et.al.|[2410.04524](http://arxiv.org/abs/2410.04524)|
 |**2024-10-04**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|
@@ -55,6 +56,7 @@ Updated on 2024.10.18
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-16**|**Qtok: A Comprehensive Framework for Evaluating Multilingual Tokenizer Quality in Large Language Models**|Iaroslav Chelombitko et.al.|[2410.12989](http://arxiv.org/abs/2410.12989)|
 |**2024-09-29**|**A Review on Edge Large Language Models: Design, Execution, and Applications**|Yue Zheng et.al.|[2410.11845](http://arxiv.org/abs/2410.11845)|
 |**2024-10-07**|**MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs**|Lei Wang et.al.|[2410.04698](http://arxiv.org/abs/2410.04698)|
 |**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|
