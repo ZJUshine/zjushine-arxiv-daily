@@ -3,6 +3,7 @@ Updated on 2024.10.22
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-20**|**Jailbreaking and Mitigation of Vulnerabilities in Large Language Models**|Benji Peng et.al.|[2410.15236](http://arxiv.org/abs/2410.15236)|
 |**2024-10-18**|**From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting**|Shigang Liu et.al.|[2410.14321](http://arxiv.org/abs/2410.14321)|
 |**2024-10-17**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|
 |**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|
@@ -57,6 +58,9 @@ Updated on 2024.10.22
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-21**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|
+|**2024-10-20**|**Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning**|Heshan Fernando et.al.|[2410.15483](http://arxiv.org/abs/2410.15483)|
+|**2024-10-02**|**ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models**|Lingfeng Zhang et.al.|[2410.14682](http://arxiv.org/abs/2410.14682)|
 |**2024-10-18**|**Leveraging Large Language Models for Enhancing Public Transit Services**|Jiahao Wang et.al.|[2410.14147](http://arxiv.org/abs/2410.14147)|
 |**2024-10-16**|**Qtok: A Comprehensive Framework for Evaluating Multilingual Tokenizer Quality in Large Language Models**|Iaroslav Chelombitko et.al.|[2410.12989](http://arxiv.org/abs/2410.12989)|
 |**2024-09-29**|**A Review on Edge Large Language Models: Design, Execution, and Applications**|Yue Zheng et.al.|[2410.11845](http://arxiv.org/abs/2410.11845)|
@@ -70,7 +74,7 @@ Updated on 2024.10.22
 |**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009](http://arxiv.org/abs/2409.18009)|
 |**2024-09-23**|**CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|
 |**2024-09-23**|**Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely**|Siyun Zhao et.al.|[2409.14924](http://arxiv.org/abs/2409.14924)|
-|**2024-09-16**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|
+|**2024-10-21**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|
 |**2024-09-20**|**Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2409.13331](http://arxiv.org/abs/2409.13331)|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|
 |**2024-09-16**|**MindGuard: Towards Accessible and Sitgma-free Mental Health First Aid via Edge LLM**|Sijie Ji et.al.|[2409.10064](http://arxiv.org/abs/2409.10064)|
