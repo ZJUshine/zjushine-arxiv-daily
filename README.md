@@ -1,4 +1,4 @@
-Updated on 2024.10.22
+Updated on 2024.10.23
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -58,7 +58,7 @@ Updated on 2024.10.22
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2024-10-21**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|
+|**2024-10-22**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|
 |**2024-10-20**|**Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning**|Heshan Fernando et.al.|[2410.15483](http://arxiv.org/abs/2410.15483)|
 |**2024-10-02**|**ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models**|Lingfeng Zhang et.al.|[2410.14682](http://arxiv.org/abs/2410.14682)|
 |**2024-10-18**|**Leveraging Large Language Models for Enhancing Public Transit Services**|Jiahao Wang et.al.|[2410.14147](http://arxiv.org/abs/2410.14147)|
