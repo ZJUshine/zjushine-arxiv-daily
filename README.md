@@ -3,6 +3,7 @@ Updated on 2024.10.23
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-22**|**DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models**|Chen Qian et.al.|[2410.16672](http://arxiv.org/abs/2410.16672)|
 |**2024-10-20**|**Jailbreaking and Mitigation of Vulnerabilities in Large Language Models**|Benji Peng et.al.|[2410.15236](http://arxiv.org/abs/2410.15236)|
 |**2024-10-18**|**From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting**|Shigang Liu et.al.|[2410.14321](http://arxiv.org/abs/2410.14321)|
 |**2024-10-17**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|
@@ -58,6 +59,7 @@ Updated on 2024.10.23
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|
 |**2024-10-22**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|
 |**2024-10-20**|**Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning**|Heshan Fernando et.al.|[2410.15483](http://arxiv.org/abs/2410.15483)|
 |**2024-10-02**|**ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models**|Lingfeng Zhang et.al.|[2410.14682](http://arxiv.org/abs/2410.14682)|
