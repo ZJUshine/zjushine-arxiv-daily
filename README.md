@@ -59,6 +59,8 @@ Updated on 2024.10.24
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-23**|**From PDFs to Structured Data: Utilizing LLM Analysis in Sports Database Management**|Juhani Merilehto et.al.|[2410.17619](http://arxiv.org/abs/2410.17619)|
+|**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370](http://arxiv.org/abs/2410.17370)|
 |**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|
 |**2024-10-22**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|
 |**2024-10-20**|**Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning**|Heshan Fernando et.al.|[2410.15483](http://arxiv.org/abs/2410.15483)|
