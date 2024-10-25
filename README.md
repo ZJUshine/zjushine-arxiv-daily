@@ -59,6 +59,8 @@ Updated on 2024.10.25
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|
+|**2024-10-23**|**Efficient Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|
 |**2024-10-23**|**From PDFs to Structured Data: Utilizing LLM Analysis in Sports Database Management**|Juhani Merilehto et.al.|[2410.17619](http://arxiv.org/abs/2410.17619)|
 |**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370](http://arxiv.org/abs/2410.17370)|
 |**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|
