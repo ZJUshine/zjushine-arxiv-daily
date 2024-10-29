@@ -1,4 +1,4 @@
-Updated on 2024.10.28
+Updated on 2024.10.29
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -60,7 +60,7 @@ Updated on 2024.10.28
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|
-|**2024-10-23**|**Efficient Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|
+|**2024-10-25**|**Fast Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|
 |**2024-10-23**|**From PDFs to Structured Data: Utilizing LLM Analysis in Sports Database Management**|Juhani Merilehto et.al.|[2410.17619](http://arxiv.org/abs/2410.17619)|
 |**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370](http://arxiv.org/abs/2410.17370)|
 |**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|
@@ -155,7 +155,7 @@ Updated on 2024.10.28
 |**2024-02-27**|**LLMGuard: Guarding Against Unsafe LLM Behavior**|Shubh Goyal et.al.|[2403.00826](http://arxiv.org/abs/2403.00826)|
 |**2024-06-08**|**PRSA: PRompt Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200](http://arxiv.org/abs/2402.19200)|
 |**2024-06-05**|**Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models**|Paul Röttger et.al.|[2402.16786](http://arxiv.org/abs/2402.16786)|
-|**2024-05-23**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|
+|**2024-10-27**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|
 |**2024-02-21**|**An Evaluation of Large Language Models in Bioinformatics Research**|Hengchuang Yin et.al.|[2402.13714](http://arxiv.org/abs/2402.13714)|
 |**2024-07-02**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|
 |**2024-02-18**|**Ain't Misbehavin' -- Using LLMs to Generate Expressive Robot Behavior in Conversations with the Tabletop Robot Haru**|Zining Wang et.al.|[2402.11571](http://arxiv.org/abs/2402.11571)|
