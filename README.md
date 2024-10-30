@@ -59,6 +59,9 @@ Updated on 2024.10.30
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-10-29**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|
+|**2024-10-29**|**SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types**|Yutao Mou et.al.|[2410.21965](http://arxiv.org/abs/2410.21965)|
+|**2024-10-28**|**Fine-tuned Large Language Models (LLMs): Improved Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2410.21337](http://arxiv.org/abs/2410.21337)|
 |**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|
 |**2024-10-25**|**Fast Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|
 |**2024-10-23**|**From PDFs to Structured Data: Utilizing LLM Analysis in Sports Database Management**|Juhani Merilehto et.al.|[2410.17619](http://arxiv.org/abs/2410.17619)|
