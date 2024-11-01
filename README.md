@@ -1,4 +1,4 @@
-Updated on 2024.10.31
+Updated on 2024.11.01
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -45,7 +45,7 @@ Updated on 2024.10.31
 |**2024-06-18**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|
 |**2024-09-25**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
-|**2024-08-21**|**Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
+|**2024-10-31**|**Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
 |**2024-06-05**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
 |**2023-12-18**|**A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models**|Aysan Esmradi et.al.|[2312.10982](http://arxiv.org/abs/2312.10982)|
 |**2024-03-20**|**A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**|Yifan Yao et.al.|[2312.02003](http://arxiv.org/abs/2312.02003)|
@@ -65,7 +65,7 @@ Updated on 2024.10.31
 |**2024-10-28**|**Fine-tuned Large Language Models (LLMs): Improved Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2410.21337](http://arxiv.org/abs/2410.21337)|
 |**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|
 |**2024-10-25**|**Fast Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|
-|**2024-10-23**|**From PDFs to Structured Data: Utilizing LLM Analysis in Sports Database Management**|Juhani Merilehto et.al.|[2410.17619](http://arxiv.org/abs/2410.17619)|
+|**2024-10-31**|**From PDFs to Structured Data: Utilizing LLM Analysis in Sports Database Management**|Juhani Merilehto et.al.|[2410.17619](http://arxiv.org/abs/2410.17619)|
 |**2024-10-22**|**On the use of Large Language Models in Model-Driven Engineering**|Juri Di Rocco et.al.|[2410.17370](http://arxiv.org/abs/2410.17370)|
 |**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|
 |**2024-10-24**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|
