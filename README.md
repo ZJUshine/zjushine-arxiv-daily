@@ -32,7 +32,7 @@ Updated on 2024.11.05
 |**2024-05-03**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103](http://arxiv.org/abs/2405.01103)|
 |**2024-04-26**|**Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**|Divyansh Agarwal et.al.|[2404.16251](http://arxiv.org/abs/2404.16251)|
 |**2024-04-19**|**CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models**|Manish Bhatt et.al.|[2404.13161](http://arxiv.org/abs/2404.13161)|
-|**2024-04-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|
+|**2024-11-04**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|
 |**2024-04-16**|**Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning**|Xiao Wang et.al.|[2404.10552](http://arxiv.org/abs/2404.10552)|
 |**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|
 |**2024-03-20**|**Mapping LLM Security Landscapes: A Comprehensive Stakeholder Risk Assessment Proposal**|Rahul Pankajakshan et.al.|[2403.13309](http://arxiv.org/abs/2403.13309)|
@@ -61,7 +61,7 @@ Updated on 2024.11.05
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2024-10-30**|**Focus On This, Not That! Steering LLMs With Adaptive Feature Specification**|Tom A. Lamb et.al.|[2410.22944](http://arxiv.org/abs/2410.22944)|
-|**2024-10-29**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|
+|**2024-11-02**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|
 |**2024-10-29**|**SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types**|Yutao Mou et.al.|[2410.21965](http://arxiv.org/abs/2410.21965)|
 |**2024-10-28**|**Fine-tuned Large Language Models (LLMs): Improved Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2410.21337](http://arxiv.org/abs/2410.21337)|
 |**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|
