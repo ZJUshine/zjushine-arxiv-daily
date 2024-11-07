@@ -48,6 +48,7 @@ Updated on 2024.11.07
 |**2024-09-25**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|
 |**2024-10-31**|**Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|
 |**2024-06-05**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|
+|**2024-11-06**|**ConfusionPrompt: Practical Private Inference for Online Large Language Models**|Peihua Mai et.al.|[2401.00870](http://arxiv.org/abs/2401.00870)|
 |**2023-12-18**|**A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models**|Aysan Esmradi et.al.|[2312.10982](http://arxiv.org/abs/2312.10982)|
 |**2024-03-20**|**A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**|Yifan Yao et.al.|[2312.02003](http://arxiv.org/abs/2312.02003)|
 |**2024-02-20**|**Reducing Privacy Risks in Online Self-Disclosures with Language Models**|Yao Dou et.al.|[2311.09538](http://arxiv.org/abs/2311.09538)|
@@ -96,7 +97,7 @@ Updated on 2024.11.07
 |**2024-08-20**|**MEGen: Generative Backdoor in Large Language Models via Model Editing**|Jiyang Qiu et.al.|[2408.10722](http://arxiv.org/abs/2408.10722)|
 |**2024-08-12**|**Bayesian inference to improve quality of Retrieval Augmented Generation**|Dattaraj Rao et.al.|[2408.08901](http://arxiv.org/abs/2408.08901)|
 |**2024-08-14**|**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**|Seungjae Moon et.al.|[2408.07326](http://arxiv.org/abs/2408.07326)|
-|**2024-08-06**|**A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search**|Yiping Sun et.al.|[2408.02937](http://arxiv.org/abs/2408.02937)|
+|**2024-11-06**|**A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search**|Yiping Sun et.al.|[2408.02937](http://arxiv.org/abs/2408.02937)|
 |**2024-07-25**|**The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation**|Eric Yang et.al.|[2407.18044](http://arxiv.org/abs/2407.18044)|
 |**2024-06-18**|**Free to play: UN Trade and Development's experience with developing its own open-source Retrieval Augmented Generation Large Language Model application**|Daniel Hopp et.al.|[2407.16896](http://arxiv.org/abs/2407.16896)|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|
