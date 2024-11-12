@@ -3,6 +3,7 @@ Updated on 2024.11.12
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-10**|**SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426](http://arxiv.org/abs/2411.06426)|
 |**2024-11-06**|**Diversity Helps Jailbreak Large Language Models**|Weiliang Zhao et.al.|[2411.04223](http://arxiv.org/abs/2411.04223)|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|
 |**2024-10-22**|**DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models**|Chen Qian et.al.|[2410.16672](http://arxiv.org/abs/2410.16672)|
@@ -62,6 +63,8 @@ Updated on 2024.11.12
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-11**|**Script-Strategy Aligned Generation: Aligning LLMs with Expert-Crafted Dialogue Scripts and Therapeutic Strategies for Psychotherapy**|Xin Sun et.al.|[2411.06723](http://arxiv.org/abs/2411.06723)|
+|**2024-11-06**|**LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration**|Yukun Cao et.al.|[2411.05844](http://arxiv.org/abs/2411.05844)|
 |**2024-11-08**|**A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents**|Liming Dong et.al.|[2411.05285](http://arxiv.org/abs/2411.05285)|
 |**2024-10-30**|**Focus On This, Not That! Steering LLMs With Adaptive Feature Specification**|Tom A. Lamb et.al.|[2410.22944](http://arxiv.org/abs/2410.22944)|
 |**2024-11-02**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|
