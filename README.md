@@ -63,6 +63,7 @@ Updated on 2024.11.13
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-12**|**Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**|Shuai Niu et.al.|[2411.07611](http://arxiv.org/abs/2411.07611)|
 |**2024-11-11**|**Script-Strategy Aligned Generation: Aligning LLMs with Expert-Crafted Dialogue Scripts and Therapeutic Strategies for Psychotherapy**|Xin Sun et.al.|[2411.06723](http://arxiv.org/abs/2411.06723)|
 |**2024-11-06**|**LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration**|Yukun Cao et.al.|[2411.05844](http://arxiv.org/abs/2411.05844)|
 |**2024-11-08**|**A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents**|Liming Dong et.al.|[2411.05285](http://arxiv.org/abs/2411.05285)|
