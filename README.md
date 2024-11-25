@@ -3,6 +3,7 @@ Updated on 2024.11.25
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-21**|**Global Challenge for Safe and Secure LLMs Track 1**|Xiaojun Jia et.al.|[2411.14502](http://arxiv.org/abs/2411.14502)|
 |**2024-11-10**|**SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426](http://arxiv.org/abs/2411.06426)|
 |**2024-11-06**|**Diversity Helps Jailbreak Large Language Models**|Weiliang Zhao et.al.|[2411.04223](http://arxiv.org/abs/2411.04223)|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|
@@ -145,7 +146,7 @@ Updated on 2024.11.25
 |**2024-11-17**|**Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation**|Jiangnan Li et.al.|[2405.06237](http://arxiv.org/abs/2405.06237)|
 |**2024-05-07**|**A Fourth Wave of Open Data? Exploring the Spectrum of Scenarios for Open Data and Generative AI**|Hannah Chafetz et.al.|[2405.04333](http://arxiv.org/abs/2405.04333)|
 |**2024-05-06**|**When LLMs Meet Cybersecurity: A Systematic Literature Review**|Jie Zhang et.al.|[2405.03644](http://arxiv.org/abs/2405.03644)|
-|**2024-05-02**|**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**|Zhiyu Zoey Chen et.al.|[2405.01769](http://arxiv.org/abs/2405.01769)|
+|**2024-11-21**|**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**|Zhiyu Zoey Chen et.al.|[2405.01769](http://arxiv.org/abs/2405.01769)|
 |**2024-04-30**|**RepEval: Effective Text Evaluation with LLM Representation**|Shuqian Sheng et.al.|[2404.19563](http://arxiv.org/abs/2404.19563)|
 |**2024-04-28**|**Generating Situated Reflection Triggers about Alternative Solution Paths: A Case Study of Generative AI for Computer-Supported Collaborative Learning**|Atharva Naik et.al.|[2404.18262](http://arxiv.org/abs/2404.18262)|
 |**2024-04-26**|**Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**|Quan Zhang et.al.|[2404.17196](http://arxiv.org/abs/2404.17196)|
