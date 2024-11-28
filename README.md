@@ -65,8 +65,9 @@ Updated on 2024.11.28
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2024-11-20**|**When IoT Meet LLMs: Applications and Challenges**|Ibrahim Kok et.al.|[2411.17722](http://arxiv.org/abs/2411.17722)|
 |**2024-11-25**|**UVLLM: An Automated Universal RTL Verification Framework using LLMs**|Yuchen Hu et.al.|[2411.16238](http://arxiv.org/abs/2411.16238)|
-|**2024-11-20**|**Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**|Hyun Ryu et.al.|[2411.13157](http://arxiv.org/abs/2411.13157)|
+|**2024-11-27**|**Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**|Hyun Ryu et.al.|[2411.13157](http://arxiv.org/abs/2411.13157)|
 |**2024-11-23**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|
 |**2024-10-29**|**GraphAide: Advanced Graph-Assisted Query and Reasoning System**|Sumit Purohit et.al.|[2411.08041](http://arxiv.org/abs/2411.08041)|
 |**2024-11-12**|**Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**|Shuai Niu et.al.|[2411.07611](http://arxiv.org/abs/2411.07611)|
