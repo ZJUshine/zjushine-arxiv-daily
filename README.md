@@ -1,4 +1,4 @@
-Updated on 2024.12.01
+Updated on 2024.12.02
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
