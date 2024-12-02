@@ -16,10 +16,8 @@ md_gitpage_path: 'index.md'
 
 # keywords to search
 keywords:
+    "Embodied AI Security": 
+        filters: ["Robot Security", "Embodied AI Security"]
     "LLM Security and Privacy": 
         filters: ["LLM Security", "LLM Privacy"]
-    "LLM Applications":
-        filters: ["LLM Applications"]
-    "LLM survey":
-        filters: ["LLM survey"]
 
