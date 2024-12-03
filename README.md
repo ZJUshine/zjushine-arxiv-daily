@@ -1,4 +1,4 @@
-Updated on 2024.12.02
+Updated on 2024.12.03
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -248,4 +248,39 @@ Updated on 2024.12.02
 |**2024-02-16**|**Understanding Survey Paper Taxonomy about Large Language Models via Graph Representation Learning**|Jun Zhuang et.al.|[2402.10409](http://arxiv.org/abs/2402.10409)|
 |**2024-04-24**|**Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward**|Arnav Chavan et.al.|[2402.01799](http://arxiv.org/abs/2402.01799)|
 |**2024-05-23**|**Efficient Large Language Models: A Survey**|Zhongwei Wan et.al.|[2312.03863](http://arxiv.org/abs/2312.03863)|
+
+## Embodied AI Security
+
+|Publish Date|Title|Authors|PDF|
+|---|---|---|---|
+|**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900](http://arxiv.org/abs/2409.01900)|
+|**2024-07-15**|**Success Probability in Multi-View Imaging**|Vadim Holodovsky et.al.|[2407.21027](http://arxiv.org/abs/2407.21027)|
+|**2024-07-24**|**DarSwin-Unet: Distortion Aware Encoder-Decoder Architecture**|Akshaya Athwale et.al.|[2407.17328](http://arxiv.org/abs/2407.17328)|
+|**2024-01-22**|**Secure Multi-hop Telemetry Broadcasts for UAV Swarm Communication**|Randolf Rotta et.al.|[2401.11915](http://arxiv.org/abs/2401.11915)|
+|**2023-07-20**|**Control Input Inference of Mobile Agents under Unknown Objective**|Chendi Qu et.al.|[2307.10883](http://arxiv.org/abs/2307.10883)|
+|**2023-06-02**|**Security-Enhancing Digital Twins: Characteristics, Indicators, and Future Perspectives**|Matthias Eckhart et.al.|[2305.00639](http://arxiv.org/abs/2305.00639)|
+|**2022-08-29**|**Partition-Tolerant and Byzantine-Tolerant Decision-Making for Distributed Robotic Systems with IOTA and ROS 2**|Farhad Keramat et.al.|[2208.13467](http://arxiv.org/abs/2208.13467)|
+|**2022-06-30**|**Secure Heterogeneous Multi-Robot Collaboration and Docking with Hyperledger Fabric Blockchain**|Salma Salimi et.al.|[2206.15242](http://arxiv.org/abs/2206.15242)|
+|**2022-10-30**|**E^2TAD: An Energy-Efficient Tracking-based Action Detector**|Xin Hu et.al.|[2204.04416](http://arxiv.org/abs/2204.04416)|
+|**2022-03-24**|**Downtime Optimized Live Migration of Industrial Real-Time Control Services**|Michael Gundall et.al.|[2203.12935](http://arxiv.org/abs/2203.12935)|
+|**2021-11-25**|**Towards an Adaptive and Normative Multi-Agent System Metamodel and Language: Existing Approaches and Research Opportunities**|Marx Viana et.al.|[2111.13084](http://arxiv.org/abs/2111.13084)|
+|**2021-06-22**|**Serial-EMD: Fast Empirical Mode Decomposition Method for Multi-dimensional Signals Based on Serialization**|Jin Zhang et.al.|[2106.15319](http://arxiv.org/abs/2106.15319)|
+|**2020-11-07**|**Autonomous Intruder Detection Using a ROS-Based Multi-Robot System Equipped with 2D-LiDAR Sensors**|Mashnoon Islam et.al.|[2011.03838](http://arxiv.org/abs/2011.03838)|
+|**2022-04-15**|**Secure Route Planning Using Dynamic Games with Stopping States**|Sandeep Banik et.al.|[2006.07452](http://arxiv.org/abs/2006.07452)|
+|**2020-03-12**|**Securing Autonomous Service Robots through Fuzzing, Detection, and Mitigation**|Chundong Wang et.al.|[2003.05564](http://arxiv.org/abs/2003.05564)|
+|**2019-04-05**|**Security Landscape for Robotics**|Ryan Shah et.al.|[1904.03033](http://arxiv.org/abs/1904.03033)|
+|**2019-09-21**|**Aztarna, a footprinting tool for robots**|Víctor Mayoral Vilches et.al.|[1812.09490](http://arxiv.org/abs/1812.09490)|
+|**2021-11-12**|**Robotics CTF (RCTF), a playground for robot hacking**|Gorka Olalde Mendia et.al.|[1810.02690](http://arxiv.org/abs/1810.02690)|
+|**2018-09-24**|**Security and Performance Considerations in ROS 2: A Balancing Act**|Jongkil Kim et.al.|[1809.09566](http://arxiv.org/abs/1809.09566)|
+|**2021-11-12**|**Towards an open standard for assessing the severity of robot security vulnerabilities, the Robot Vulnerability Scoring System (RVSS)**|Víctor Mayoral Vilches et.al.|[1807.10357](http://arxiv.org/abs/1807.10357)|
+|**2021-11-12**|**Robot hazards: from safety to security**|Laura Alzola Kirschgens et.al.|[1806.06681](http://arxiv.org/abs/1806.06681)|
+|**2021-11-12**|**Introducing the Robot Security Framework (RSF), a standardized methodology to perform security assessments in robotics**|Víctor Mayoral Vilches et.al.|[1806.04042](http://arxiv.org/abs/1806.04042)|
+|**2018-03-15**|**Planning and Navigation of Climbing Robots in Low-Gravity Environments**|Steven Morad et.al.|[1803.05601](http://arxiv.org/abs/1803.05601)|
+|**2018-03-06**|**Secure Minimum Time Planning Under Environmental Uncertainty: an Extended Treatment**|Alexander Ivanov et.al.|[1803.01966](http://arxiv.org/abs/1803.01966)|
+|**2017-08-18**|**Security, Privacy and Safety Evaluation of Dynamic and Static Fleets of Drones**|Raja Naeem Akram et.al.|[1708.05732](http://arxiv.org/abs/1708.05732)|
+|**2017-04-15**|**Securing a UAV Using Individual Characteristics From an EEG Signal**|Ashutosh Singandhupe et.al.|[1704.04574](http://arxiv.org/abs/1704.04574)|
+|**2017-02-21**|**Guidance, Navigation and Control of Multirobot Systems in Cooperative Cliff Climbing**|Himangshu Kalita et.al.|[1701.07553](http://arxiv.org/abs/1701.07553)|
+|**2016-08-04**|**Dynamic Programming for One-Sided Partially Observable Pursuit-Evasion Games**|Karel Horák et.al.|[1606.06271](http://arxiv.org/abs/1606.06271)|
+|**2015-05-12**|**To Make a Robot Secure: An Experimental Analysis of Cyber Security Threats Against Teleoperated Surgical Robots**|Tamara Bonaci et.al.|[1504.04339](http://arxiv.org/abs/1504.04339)|
+|**2010-04-29**|**The Application of a Dendritic Cell Algorithm to a Robotic Classifier**|Robert Oates et.al.|[1004.5222](http://arxiv.org/abs/1004.5222)|
 
