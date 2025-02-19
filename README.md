@@ -3,6 +3,7 @@ Updated on 2025.02.19
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-02-18**|**Automating Prompt Leakage Attacks on Large Language Models Using Agentic Approach**|Tvrtko Sternak et.al.|[2502.12630](http://arxiv.org/abs/2502.12630)|
 |**2025-02-03**|**Topic-FlipRAG: Topic-Orientated Adversarial Opinion Manipulation Attacks to Retrieval-Augmented Generation Models**|Yuyang Gong et.al.|[2502.01386](http://arxiv.org/abs/2502.01386)|
 |**2025-01-09**|**Infecting Generative AI With Viruses**|David Noever et.al.|[2501.05542](http://arxiv.org/abs/2501.05542)|
 |**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335](http://arxiv.org/abs/2501.01335)|
@@ -262,7 +263,7 @@ Updated on 2025.02.19
 |---|---|---|---|
 |**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900](http://arxiv.org/abs/2409.01900)|
 |**2024-07-15**|**Success Probability in Multi-View Imaging**|Vadim Holodovsky et.al.|[2407.21027](http://arxiv.org/abs/2407.21027)|
-|**2024-07-24**|**DarSwin-Unet: Distortion Aware Encoder-Decoder Architecture**|Akshaya Athwale et.al.|[2407.17328](http://arxiv.org/abs/2407.17328)|
+|**2025-02-18**|**DarSwin-Unet: Distortion Aware Encoder-Decoder Architecture**|Akshaya Athwale et.al.|[2407.17328](http://arxiv.org/abs/2407.17328)|
 |**2024-01-22**|**Secure Multi-hop Telemetry Broadcasts for UAV Swarm Communication**|Randolf Rotta et.al.|[2401.11915](http://arxiv.org/abs/2401.11915)|
 |**2023-07-20**|**Control Input Inference of Mobile Agents under Unknown Objective**|Chendi Qu et.al.|[2307.10883](http://arxiv.org/abs/2307.10883)|
 |**2023-06-02**|**Security-Enhancing Digital Twins: Characteristics, Indicators, and Future Perspectives**|Matthias Eckhart et.al.|[2305.00639](http://arxiv.org/abs/2305.00639)|
