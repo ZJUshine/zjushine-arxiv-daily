@@ -3,6 +3,7 @@ Updated on 2025.02.25
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-02-24**|**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**|Haoran Li et.al.|[2502.17041](http://arxiv.org/abs/2502.17041)|
 |**2025-02-18**|**Automating Prompt Leakage Attacks on Large Language Models Using Agentic Approach**|Tvrtko Sternak et.al.|[2502.12630](http://arxiv.org/abs/2502.12630)|
 |**2025-02-03**|**Topic-FlipRAG: Topic-Orientated Adversarial Opinion Manipulation Attacks to Retrieval-Augmented Generation Models**|Yuyang Gong et.al.|[2502.01386](http://arxiv.org/abs/2502.01386)|
 |**2025-01-09**|**Infecting Generative AI With Viruses**|David Noever et.al.|[2501.05542](http://arxiv.org/abs/2501.05542)|
@@ -27,7 +28,7 @@ Updated on 2025.02.25
 |**2024-10-19**|**Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks**|Benji Peng et.al.|[2409.08087](http://arxiv.org/abs/2409.08087)|
 |**2024-12-02**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274](http://arxiv.org/abs/2409.03274)|
 |**2025-02-19**|**Safety Layers in Aligned Large Language Models: The Key to LLM Security**|Shen Li et.al.|[2408.17003](http://arxiv.org/abs/2408.17003)|
-|**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|
+|**2025-02-22**|**Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|
 |**2024-09-06**|**LLM-PBE: Assessing Data Privacy in Large Language Models**|Qinbin Li et.al.|[2408.12787](http://arxiv.org/abs/2408.12787)|
 |**2024-12-16**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749](http://arxiv.org/abs/2408.11749)|
 |**2024-11-17**|**Blockchain for Large Language Model Security and Safety: A Holistic Survey**|Caleb Geren et.al.|[2407.20181](http://arxiv.org/abs/2407.20181)|
