@@ -3,6 +3,7 @@ Updated on 2025.03.25
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|
 |**2025-03-18**|**A Comprehensive Study of LLM Secure Code Generation**|Shih-Chieh Dai et.al.|[2503.15554](http://arxiv.org/abs/2503.15554)|
 |**2025-03-14**|**PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders**|Ahmed Frikha et.al.|[2503.11232](http://arxiv.org/abs/2503.11232)|
 |**2025-02-24**|**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**|Haoran Li et.al.|[2502.17041](http://arxiv.org/abs/2502.17041)|
