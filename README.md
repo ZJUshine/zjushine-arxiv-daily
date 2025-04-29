@@ -3,6 +3,7 @@ Updated on 2025.04.29
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|
 |**2025-04-15**|**Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms' "Typo" Correction**|Seyyed Ali Ayati et.al.|[2504.11622](http://arxiv.org/abs/2504.11622)|
 |**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|
 |**2025-03-18**|**A Comprehensive Study of LLM Secure Code Generation**|Shih-Chieh Dai et.al.|[2503.15554](http://arxiv.org/abs/2503.15554)|
