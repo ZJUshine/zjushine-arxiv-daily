@@ -3,6 +3,7 @@ Updated on 2025.05.26
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-05-20**|**From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems**|Alexander Gutfraind et.al.|[2505.17084](http://arxiv.org/abs/2505.17084)|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|
 |**2025-05-20**|**Evaluating the efficacy of LLM Safety Solutions : The Palit Benchmark Dataset**|Sayon Palit et.al.|[2505.13028](http://arxiv.org/abs/2505.13028)|
 |**2025-05-18**|**A Survey of Attacks on Large Language Models**|Wenrui Xu et.al.|[2505.12567](http://arxiv.org/abs/2505.12567)|
