@@ -3,6 +3,7 @@ Updated on 2025.06.04
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-05-31**|**Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences**|Mohammad Saqib et.al.|[2506.00419](http://arxiv.org/abs/2506.00419)|
 |**2025-05-20**|**From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems**|Alexander Gutfraind et.al.|[2505.17084](http://arxiv.org/abs/2505.17084)|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|
 |**2025-05-20**|**Evaluating the efficacy of LLM Safety Solutions : The Palit Benchmark Dataset**|Sayon Palit et.al.|[2505.13028](http://arxiv.org/abs/2505.13028)|
