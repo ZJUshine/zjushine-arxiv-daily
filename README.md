@@ -3,6 +3,9 @@ Updated on 2025.06.10
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-06-09**|**TwinBreak: Jailbreaking LLM Security Alignments based on Twin Prompts**|Torsten Krauß et.al.|[2506.07596](http://arxiv.org/abs/2506.07596)|
+|**2025-06-09**|**Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures**|Yukai Zhou et.al.|[2506.07402](http://arxiv.org/abs/2506.07402)|
+|**2025-06-09**|**JavelinGuard: Low-Cost Transformer Architectures for LLM Security**|Yash Datta et.al.|[2506.07330](http://arxiv.org/abs/2506.07330)|
 |**2025-05-31**|**Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences**|Mohammad Saqib et.al.|[2506.00419](http://arxiv.org/abs/2506.00419)|
 |**2025-05-20**|**From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems**|Alexander Gutfraind et.al.|[2505.17084](http://arxiv.org/abs/2505.17084)|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|
