@@ -1,4 +1,4 @@
-Updated on 2025.06.19
+Updated on 2025.06.20
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -279,6 +279,7 @@ Updated on 2025.06.19
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-06-18**|**Offensive Robot Cybersecurity**|Víctor Mayoral-Vilches et.al.|[2506.15343](http://arxiv.org/abs/2506.15343)|
 |**2025-04-17**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|
 |**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900](http://arxiv.org/abs/2409.01900)|
 |**2024-07-15**|**Success Probability in Multi-View Imaging**|Vadim Holodovsky et.al.|[2407.21027](http://arxiv.org/abs/2407.21027)|
