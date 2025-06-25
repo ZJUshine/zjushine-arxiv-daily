@@ -1,4 +1,4 @@
-Updated on 2025.06.24
+Updated on 2025.06.25
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -17,7 +17,7 @@ Updated on 2025.06.24
 |**2025-06-13**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|
 |**2025-04-29**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|
 |**2025-04-15**|**Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms' "Typo" Correction**|Seyyed Ali Ayati et.al.|[2504.11622](http://arxiv.org/abs/2504.11622)|
-|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|
+|**2025-06-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|
 |**2025-03-18**|**A Comprehensive Study of LLM Secure Code Generation**|Shih-Chieh Dai et.al.|[2503.15554](http://arxiv.org/abs/2503.15554)|
 |**2025-03-14**|**PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders**|Ahmed Frikha et.al.|[2503.11232](http://arxiv.org/abs/2503.11232)|
 |**2025-05-23**|**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**|Haoran Li et.al.|[2502.17041](http://arxiv.org/abs/2502.17041)|
