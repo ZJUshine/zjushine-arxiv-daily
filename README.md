@@ -1,4 +1,4 @@
-Updated on 2025.07.03
+Updated on 2025.07.04
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -37,7 +37,7 @@ Updated on 2025.07.03
 |**2025-05-08**|**Jailbreaking and Mitigation of Vulnerabilities in Large Language Models**|Benji Peng et.al.|[2410.15236](http://arxiv.org/abs/2410.15236)|
 |**2024-10-18**|**From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting**|Shigang Liu et.al.|[2410.14321](http://arxiv.org/abs/2410.14321)|
 |**2025-02-09**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|
-|**2025-01-13**|**SecAlign: Defending Against Prompt Injection with Preference Optimization**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|
+|**2025-07-03**|**SecAlign: Defending Against Prompt Injection with Preference Optimization**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|
 |**2024-10-06**|**Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning**|Yanrui Du et.al.|[2410.04524](http://arxiv.org/abs/2410.04524)|
 |**2025-04-09**|**LLM Safeguard is a Double-Edged Sword: Exploiting False Positives for Denial-of-Service Attacks**|Qingzhao Zhang et.al.|[2410.02916](http://arxiv.org/abs/2410.02916)|
 |**2024-10-04**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|
