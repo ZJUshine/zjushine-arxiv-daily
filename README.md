@@ -3,6 +3,7 @@ Updated on 2025.07.28
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-07-25**|**PrompTrend: Continuous Community-Driven Vulnerability Discovery and Assessment for Large Language Models**|Tarek Gasmi et.al.|[2507.19185](http://arxiv.org/abs/2507.19185)|
 |**2025-07-22**|**Benchmarking LLM Privacy Recognition for Social Robot Decision Making**|Dakota Sullivan et.al.|[2507.16124](http://arxiv.org/abs/2507.16124)|
 |**2025-07-14**|**PRM-Free Security Alignment of Large Models via Red Teaming and Adversarial Training**|Pengfei Du et.al.|[2507.14202](http://arxiv.org/abs/2507.14202)|
 |**2025-05-26**|**Efficient and Stealthy Jailbreak Attacks via Adversarial Prompt Distillation from LLMs to SLMs**|Xiang Li et.al.|[2506.17231](http://arxiv.org/abs/2506.17231)|
