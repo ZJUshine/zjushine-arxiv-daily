@@ -1,4 +1,4 @@
-Updated on 2025.08.31
+Updated on 2025.09.01
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
@@ -13,7 +13,7 @@ Updated on 2025.08.31
 |**2025-06-09**|**JavelinGuard: Low-Cost Transformer Architectures for LLM Security**|Yash Datta et.al.|[2506.07330](http://arxiv.org/abs/2506.07330)|
 |**2025-05-31**|**Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences**|Mohammad Saqib et.al.|[2506.00419](http://arxiv.org/abs/2506.00419)|
 |**2025-05-20**|**From nuclear safety to LLM security: Applying non-probabilistic risk management strategies to build safe and secure LLM-powered systems**|Alexander Gutfraind et.al.|[2505.17084](http://arxiv.org/abs/2505.17084)|
-|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|
+|**2025-08-29**|**FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework for Large Language Models**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/abs/2505.15683)|
 |**2025-05-20**|**Evaluating the efficacy of LLM Safety Solutions : The Palit Benchmark Dataset**|Sayon Palit et.al.|[2505.13028](http://arxiv.org/abs/2505.13028)|
 |**2025-05-18**|**A Survey of Attacks on Large Language Models**|Wenrui Xu et.al.|[2505.12567](http://arxiv.org/abs/2505.12567)|
 |**2025-05-13**|**Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs**|Chetan Pathade et.al.|[2505.04806](http://arxiv.org/abs/2505.04806)|
