@@ -1,11 +1,11 @@
-Updated on 2025.09.09
+Updated on 2025.09.10
 ## LLM Security and Privacy
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2025-09-08**|**MoGU V2: Toward a Higher Pareto Frontier Between Model Usability and Security**|Yanrui Du et.al.|[2509.06807](http://arxiv.org/abs/2509.06807)|
 |**2025-09-08**|**When Code Crosses Borders: A Security-Centric Evaluation of LLM-based Code Translation**|Hailong Chang et.al.|[2509.06504](http://arxiv.org/abs/2509.06504)|
-|**2025-08-25**|**Attacking LLMs and AI Agents: Advertisement Embedding Attacks Against Large Language Models**|Qiming Guo et.al.|[2508.17674](http://arxiv.org/abs/2508.17674)|
+|**2025-09-08**|**Attacking LLMs and AI Agents: Advertisement Embedding Attacks Against Large Language Models**|Qiming Guo et.al.|[2508.17674](http://arxiv.org/abs/2508.17674)|
 |**2025-07-25**|**PrompTrend: Continuous Community-Driven Vulnerability Discovery and Assessment for Large Language Models**|Tarek Gasmi et.al.|[2507.19185](http://arxiv.org/abs/2507.19185)|
 |**2025-09-01**|**Benchmarking LLM Privacy Recognition for Social Robot Decision Making**|Dakota Sullivan et.al.|[2507.16124](http://arxiv.org/abs/2507.16124)|
 |**2025-07-14**|**PRM-Free Security Alignment of Large Models via Red Teaming and Adversarial Training**|Pengfei Du et.al.|[2507.14202](http://arxiv.org/abs/2507.14202)|
